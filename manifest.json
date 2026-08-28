@@ -1,4 +1,4 @@
-﻿{
+{
   "version": 1,
   "files": [
     {
@@ -9,16 +9,6 @@
     {
       "name": "persons_data.json",
       "url": "https://robinsinghdevgan.github.io/NanakshahiCalendar-Data/persons_data.json",
-      "version": 1
-    },
-    {
-      "name": "event_categories.json",
-      "url": "https://robinsinghdevgan.github.io/NanakshahiCalendar-Data/event_categories.json",
-      "version": 1
-    },
-    {
-      "name": "event_types.json",
-      "url": "https://robinsinghdevgan.github.io/NanakshahiCalendar-Data/event_types.json",
       "version": 1
     }
   ]
