@@ -25,7 +25,7 @@
           }
         ]
       },
-      "ctx": "OTA TEST SUCCESSFUL! Nanakshahi New Year marks the beginning of the Sikh calendar year, starting on Chet 1 (March 14 in Gregorian calendar).",
+      "ctx": "Nanakshahi New Year (Pehla Chet) marks the beginning of the Sikh calendar year, introduced to synchronize historical Sikh events with the tropical solar calendar. Commencing on Chet 1 (March 14), it commemorates the era founded in honor of Guru Nanak Dev Ji (originating in 1469 CE). The day is celebrated globally with special Gurdwara gatherings, Asa Ki Vaar Kirtan, and recitations of the sacred Barah Maha composition from Sri Guru Granth Sahib Ji.",
       "wiki": "https://www.sikhiwiki.org/index.php/Nanakshahi_calendar",
       "limg": "events/happy_new_nanakshahi_year.webp",
       "imgs": [
@@ -72,7 +72,11 @@
         ]
       },
       "ctx": "Hola Mahalla (year-end listing in 557). This entry represents the Phagan 557 date for the year 557 only.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Hola_Mohalla"
+      "wiki": "https://www.sikhiwiki.org/index.php/Hola_Mohalla",
+      "limg": "events/hola_mahalla.webp",
+      "imgs": [
+        "events/hola_mahalla.webp"
+      ]
     },
     {
       "id": "SHAHIDI_BABA_PHULA_SINGH",
@@ -296,8 +300,12 @@
           }
         ]
       },
-      "ctx": "Shaheedi Diwas (Martyrdom Day) of Shaheed Bhagat Singh (1907-1931), the legendary Indian revolutionary who fought against British colonial rule. He was hanged at the age of 23, becoming an icon of India's independence movement.",
-      "wiki": "https://en.wikipedia.org/wiki/Bhagat_Singh"
+      "ctx": "Shaheedi Diwas (Martyrdom Day) of Shaheed Bhagat Singh (1907–1931), the visionary Sikh revolutionary born in Banga, Lyallpur (now Pakistan). A passionate patriot who founded the Naujawan Bharat Sabha, he resisted British colonial imperialism with indomitable courage. Following the Lahore Conspiracy Case, he alongside Rajguru and Sukhdev embraced the gallows with smiles on March 23, 1931 in Lahore Central Jail at the tender age of 23, inspiring millions across India to rise against colonial tyranny.",
+      "wiki": "https://en.wikipedia.org/wiki/Bhagat_Singh",
+      "limg": "events/shaheed_bhagat_singh.webp",
+      "imgs": [
+        "events/shaheed_bhagat_singh.webp"
+      ]
     },
     {
       "id": "SHAHIDI_SUBEG_SHAHBAZ_SINGH",
@@ -323,7 +331,7 @@
           }
         ]
       },
-      "ctx": "Shaheedi Diwas of Bhai Subeg Singh and Bhai Shahbaz Singh, Sikh martyrs who gave their lives for their faith during the Mughal persecution of Sikhs in the 18th century.",
+      "ctx": "Shaheedi Diwas of Bhai Subeg Singh and his 18-year-old son Bhai Shahbaz Singh (1745). Bhai Subeg Singh was a learned diplomat and Kotwal of Lahore who negotiated the Khalsa's treaty with the Mughal government that conferred the title of Nawab on Kapur Singh in 1733. When persecution renewed under Governor Yahya Khan, both father and son refused to renounce the Sikh faith despite being strapped to rotating wheels with sharp blades (Charkhari). They embraced martyrdom joyfully while reciting Gurbani.",
       "limg": "events/bhai_subeg_singh_martyrdom.webp",
       "imgs": [
         "events/bhai_subeg_singh_martyrdom.webp"
@@ -522,8 +530,12 @@
           }
         ]
       },
-      "ctx": "Sikh Dastar Day (Turban Day) celebrates the Sikh tradition of wearing the Dastar (turban), one of the Five Ks. The turban represents dignity, honor, and commitment to the Sikh faith. This day raises awareness about the religious significance of the turban.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Turban"
+      "ctx": "World Sikh Dastar Day (International Turban Day) is observed annually on April 13, coinciding with Vaisakhi. It celebrates the Dastar (turban), the sacred crown of royalty, equality, self-respect, and spiritual sovereignty bestowed upon Sikhs by Sri Guru Gobind Singh Ji. The day aims to raise global awareness about the religious significance and sanctity of the Sikh turban.",
+      "wiki": "https://www.sikhiwiki.org/index.php/Turban",
+      "limg": "events/sikh_dastar_day.webp",
+      "imgs": [
+        "events/sikh_dastar_day.webp"
+      ]
     },
     {
       "id": "KHALSA_SAJNA_DIVAS",
@@ -648,7 +660,7 @@
           }
         ]
       },
-      "ctx": "Prakash Purab (Birth Anniversary) of Bhagat Dhanna Ji. A 15th century saint from Rajasthan whose hymns are included in Guru Granth Sahib.",
+      "ctx": "Prakash Purab (Birth Anniversary) of Bhagat Dhanna Ji, a 15th-century saint and humble farmer born in Dhuan Kalan village near Tonk, Rajasthan. Known for his childlike innocence, unshakable faith, and pure devotion, he realized the Divine in everyday life. Three of his sacred hymns are enshrined in Sri Guru Granth Sahib Ji across Rag Asa and Rag Gujri, reminding seekers that God is attained through simple, heartfelt love without ritualistic pretension.",
       "img": "https://www.sikhiwiki.org/images/4/4d/Bhagat_Dhanna_Ji.jpg",
       "wiki": "https://www.sikhiwiki.org/index.php/Bhagat_Dhanna_Ji",
       "pri": 70,
@@ -669,9 +681,13 @@
           "m": 2
         }
       },
-      "ctx": "Prakash Purab (Birth Anniversary) of Bhagat Farid Ji (1173-1266), a renowned Sufi saint whose hymns are included in Guru Granth Sahib. His poetry emphasizes detachment from worldly affairs and devotion to God. His shrine is in Pakpattan, Pakistan.",
+      "ctx": "Prakash Purab (Birth Anniversary) of Sheikh Fariduddin Ganjshakar (Baba Farid Ji, 1173–1266), the renowned Sufi saint and father of Punjabi poetry. Enshrined in Sri Guru Granth Sahib Ji are 4 Shabads and 112 profound Saloks of Baba Farid Ji (alongside 18 Saloks of the Sikh Gurus commenting in divine dialogue). His hymns emphasize sweet speech, humility, detachment from transient worldly illusions, forgiveness, and ceaseless remembrance of the Almighty.",
       "wiki": "https://www.sikhiwiki.org/index.php/Bhagat_Farid",
-      "pid": "BHAGAT_FARID"
+      "pid": "BHAGAT_FARID",
+      "limg": "persons/bhagats/bhagat_farid.webp",
+      "imgs": [
+        "persons/bhagats/bhagat_farid.webp"
+      ]
     },
     {
       "id": "GURU_AMAR_DAS_BIRTH",
@@ -729,7 +745,11 @@
         ]
       },
       "ctx": "Jormela Muktsar commemorates the Battle of Muktsar (1705) where 40 Sikhs (Chaali Mukte) attained martyrdom after returning to fight alongside Guru Gobind Singh Ji. Led by Mai Bhago, they redeemed themselves and saved the Guru. The town was renamed Muktsar (Pool of Liberation) in their honor.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Battle_of_Muktsar"
+      "wiki": "https://www.sikhiwiki.org/index.php/Battle_of_Muktsar",
+      "limg": "persons/chaali_mukte/chaali_mukte.webp",
+      "imgs": [
+        "persons/chaali_mukte/chaali_mukte.webp"
+      ]
     },
     {
       "id": "BIRTH_JASSA_SINGH_RAMGARHIA",
@@ -934,8 +954,12 @@
           }
         ]
       },
-      "ctx": "Saka Paonta Sahib commemorates the martyrdom of Sikhs who sacrificed their lives defending the Sikh faith during historical conflicts at Paonta Sahib, a significant Sikh pilgrimage site established by Guru Gobind Singh Ji.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Paonta_Sahib"
+      "ctx": "Saka Paonta Sahib (May 1964) commemorates the supreme sacrifice of Nihang Singhs who laid down their lives to protect and restore the sanctity and community control of Gurdwara Sri Paonta Sahib on the banks of the Yamuna River. Founded originally by Sri Guru Gobind Singh Ji where he composed sacred Gurbani (including Jaap Sahib and Chandi Di Vaar), the shrine's management was liberated following this tragedy.",
+      "wiki": "https://www.sikhiwiki.org/index.php/Paonta_Sahib",
+      "limg": "events/saka_paonta_sahib.webp",
+      "imgs": [
+        "events/saka_paonta_sahib.webp"
+      ]
     },
     {
       "id": "GURU_ARJAN_DEV_MARTYRDOM",
@@ -991,8 +1015,12 @@
           }
         ]
       },
-      "ctx": "Prakash Purab (Birth Anniversary) of Sant Jarnail Singh Bhindranwale (1947-1984), a Sikh leader who served as the head of the Damdami Taksal. He was a prominent figure in the Dharam Yudh Morcha and attained martyrdom during Operation Blue Star at Sri Akal Takht Sahib.",
-      "wiki": "https://en.wikipedia.org/wiki/Jarnail_Singh_Bhindranwale"
+      "ctx": "Prakash Purab (Birth Anniversary) of Sant Jarnail Singh Ji Khalsa Bhindranwale (1947–1984), born in Rode village, Moga. Initiated into the Damdami Taksal by Sant Gurbachan Singh Ji Khalsa, he became its 14th Jathedar in August 1977. A charismatic orator and staunch preacher of Amrit Sanchar and Sikh identity, he led the Dharam Yudh Morcha for Punjab's political, economic, and water rights, and attained martyrdom defending Sri Akal Takht Sahib in June 1984.",
+      "wiki": "https://en.wikipedia.org/wiki/Jarnail_Singh_Bhindranwale",
+      "limg": "events/sant_jarnail_singh_bhindranwale.webp",
+      "imgs": [
+        "events/sant_jarnail_singh_bhindranwale.webp"
+      ]
     },
     {
       "id": "GHALLUGHARA_1984",
@@ -1018,16 +1046,12 @@
           }
         ]
       },
-      "ctx": "Ghallughara 1984 (June 1984) marks Operation Blue Star, when the Indian Army stormed Sri Harmandir Sahib (Golden Temple) and Sri Akal Takht Sahib. This tragic event resulted in significant loss of life, including pilgrims, and caused immense damage to the Akal Takht building. It remains a deeply painful chapter in Sikh history.",
+      "ctx": "Ghallughara June 1984 (Operation Blue Star) marks the military assault launched by the Indian Army against Sri Harmandir Sahib (Golden Temple) and Sri Akal Takht Sahib in Amritsar in the first week of June 1984. Occurring during the Gurpurb of Sri Guru Arjan Dev Ji, thousands of innocent pilgrims, children, and defenders, including Sant Jarnail Singh Bhindranwale, Bhai Amrik Singh, and General Shabeg Singh, attained martyrdom. The historic Akal Takht building was reduced to rubble and the Sikh Reference Library was burned. It remains one of the most agonizing chapters in modern Sikh history.",
       "wiki": "https://www.sikhiwiki.org/index.php/Operation_Blue_Star",
       "imgs": [
-        "events/chhota_ghallughara.webp",
-        "events/ghallughara_1984.webp",
-        "events/ghallughara_october_november.webp",
-        "events/vaddha_ghallughara.webp",
         "events/event_ghallughara_sri_akal_takht_sahib_1984.webp"
       ],
-      "limg": "events/chhota_ghallughara.webp"
+      "limg": "events/event_ghallughara_sri_akal_takht_sahib_1984.webp"
     },
     {
       "id": "SHAHIDI_SANT_JARNAIL_AMRIK",
@@ -1049,8 +1073,12 @@
           }
         ]
       },
-      "ctx": "Shaheedi Diwas of Sant Jarnail Singh Bhindranwale and Bhai Amrik Singh, who attained martyrdom during Operation Blue Star in June 1984 at Sri Akal Takht Sahib, Amritsar.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Operation_Blue_Star"
+      "ctx": "Shaheedi Diwas of Sant Jarnail Singh Ji Khalsa Bhindranwale and Bhai Amrik Singh (President of the All India Sikh Students Federation), who attained supreme martyrdom on June 6, 1984 defending the sovereignty of Sri Akal Takht Sahib against the military assault of Operation Blue Star.",
+      "wiki": "https://www.sikhiwiki.org/index.php/Operation_Blue_Star",
+      "limg": "events/sant_jarnail_singh_bhindranwale.webp",
+      "imgs": [
+        "events/sant_jarnail_singh_bhindranwale.webp"
+      ]
     },
     {
       "id": "BHAGAT_KABIR_BIRTH",
@@ -1076,7 +1104,7 @@
           }
         ]
       },
-      "ctx": "Prakash Purab (Birth Anniversary) of Bhagat Kabir Ji. A 15th-century mystic poet-saint whose writings are included in Guru Granth Sahib.",
+      "ctx": "Prakash Purab (Birth Anniversary) of Bhagat Kabir Ji (1398–1518), a revered mystic weaver from Varanasi whose profound Bani forms the largest contribution among Bhagats in Sri Guru Granth Sahib Ji (227 Padas across 17 Ragas and 243 Saloks). Kabir Ji fearlessly rejected the hypocrisy of rituals, untouchability, caste superiority, and sectarian divides, preaching oneness of God (Ik Oankar) and remembrance of the Divine Naam as the only true path to spiritual liberation.",
       "img": "https://www.sikhiwiki.org/images/6/6a/Kabirji.jpg",
       "wiki": "https://www.sikhiwiki.org/index.php/Bhagat_Kabir",
       "pri": 70,
@@ -1107,7 +1135,11 @@
         ]
       },
       "ctx": "Jormela Ritha Sahib is an annual gathering at Gurdwara Sri Ritha Sahib, a historic Sikh shrine associated with visits by the Sikh Gurus. Devotees gather to pay respects and participate in religious ceremonies.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Gurdwara_Ritha_Sahib"
+      "wiki": "https://www.sikhiwiki.org/index.php/Gurdwara_Ritha_Sahib",
+      "limg": "events/event_032_jeth_29.webp",
+      "imgs": [
+        "events/event_032_jeth_29.webp"
+      ]
     },
     {
       "id": "FOUNDATION_DAY_AKAL_TAKHT",
@@ -1439,8 +1471,12 @@
           }
         ]
       },
-      "ctx": "Jormela Baba Bakala is an annual gathering at Baba Bakala, the sacred site associated with Guru Tegh Bahadur Ji. It was here that the ninth Guru spent many years in meditation before being revealed as the true successor. Devotees gather to honor this historical event.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Baba_Bakala"
+      "ctx": "Annual Jormela at Sri Baba Bakala Sahib, commemorating the historic revelation of the Ninth Sikh Guru, Sri Guru Tegh Bahadur Ji, in 1664. Following the passing of Guru Har Krishan Sahib Ji with the words 'Baba Bakale', twenty-two imposter Sodhis set up seats claiming the Guruship. The wealthy merchant Makhan Shah Lubana, whose ship was saved in a sea storm by the Guru, arrived and tested each claimant with two gold dinars, discovering the true Guru in his subterranean meditation room (Bhora Sahib) and proclaiming from the rooftop: 'Guru Ladho Re' (The True Guru is Found!).",
+      "wiki": "https://www.sikhiwiki.org/index.php/Baba_Bakala",
+      "limg": "events/jormela_baba_bakala.webp",
+      "imgs": [
+        "events/jormela_baba_bakala.webp"
+      ]
     },
     {
       "id": "INDIAS_INDEPENDENCE_DAY",
@@ -1482,8 +1518,12 @@
           }
         ]
       },
-      "ctx": "Partition Prayer Day commemorates the suffering and displacement caused by the Partition of India in August 1947. Punjab was divided, and millions of Sikhs were displaced from their ancestral homes in what became Pakistan. Many lost their lives during the mass migration.",
-      "wiki": "https://en.wikipedia.org/wiki/Partition_of_India"
+      "ctx": "Partition Prayer Day (Vibhajan Ardaas Divas) commemorates the tragic suffering, massacre, and catastrophic displacement endured by the Sikh community during the Partition of Punjab in August 1947. Millions of Sikhs were forced to abandon their ancestral lands, homes, and sacred historical shrines—including Gurdwara Janam Asthan Nankana Sahib, Sri Panja Sahib, and Gurdwara Dehra Sahib—in what became Pakistan, with hundreds of thousands martyred during the mass migration.",
+      "wiki": "https://en.wikipedia.org/wiki/Partition_of_India",
+      "limg": "events/partition_prayer_day.webp",
+      "imgs": [
+        "events/partition_prayer_day.webp"
+      ]
     },
     {
       "id": "SHAHIDI_SANT_LONGOWAL",
@@ -1505,8 +1545,12 @@
           }
         ]
       },
-      "ctx": "Shaheedi Diwas (Martyrdom Day) of Sant Harchand Singh Longowal (1932-1985), a respected Sikh leader who was assassinated for signing the Rajiv-Longowal Accord aimed at resolving Punjab's political issues through peaceful means.",
-      "wiki": "https://en.wikipedia.org/wiki/Harchand_Singh_Longowal"
+      "ctx": "Shaheedi Diwas (Martyrdom Day) of Sant Harchand Singh Longowal (1932–1985), prominent Sikh religious and political leader who served as President of the Shiromani Akali Dal and Dictator of the Dharam Yudh Morcha. Seeking a peaceful resolution to Punjab's political turmoil, he signed the historic Punjab Accord (Rajiv-Longowal Accord) in July 1985 and was assassinated shortly after while praying at Gurdwara Sherpur.",
+      "wiki": "https://en.wikipedia.org/wiki/Harchand_Singh_Longowal",
+      "limg": "events/sant_harchand_singh_longowal.webp",
+      "imgs": [
+        "events/sant_harchand_singh_longowal.webp"
+      ]
     },
     {
       "id": "GURU_GRANTH_SAHIB_COMPLETION",
@@ -1702,8 +1746,12 @@
           }
         ]
       },
-      "ctx": "Jormela Kandh Dehra Sahib is an annual religious gathering at Gurdwara Kandh Sahib (also known as Dehra Sahib), a historic Sikh shrine in Pakistan. This site commemorates the visit of a Sikh Guru and continues to be a place of pilgrimage.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Gurdwara_Dehra_Sahib"
+      "ctx": "Annual Jormela at Gurdwara Kandh Sahib in Batala, Gurdaspur. Commemorates the holy marriage of Guru Nanak Dev Ji to Mata Sulakhni Ji in 1487 CE. The Gurdwara preserves the historic mud wall ('Kandh') beneath which Guru Nanak sat while an elderly woman warned him that the cracked wall would collapse upon him. Guru Nanak famously replied: 'Bhole Maai, eh Kandh sadiyan tak kayam rahegi' (O innocent mother, this wall shall stand for ages).",
+      "wiki": "https://www.sikhiwiki.org/index.php/Gurdwara_Dehra_Sahib",
+      "limg": "events/event_057_assu_1.webp",
+      "imgs": [
+        "events/event_057_assu_1.webp"
+      ]
     },
     {
       "id": "GURU_NANAK_WEDDING_BATALA",
@@ -1784,8 +1832,12 @@
           }
         ]
       },
-      "ctx": "Jormela Baba Budha Ramdas is an annual gathering honoring Baba Budha Ji and Guru Ram Das Ji at their historical sites. Baba Budha Ji served as the first Granthi of Harmandir Sahib and performed the coronation ceremonies of five Gurus.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Baba_Budha"
+      "ctx": "Annual religious gathering at Gurdwara Tap Asthan Baba Budha Ji in Ramdas, Amritsar. Venerable Baba Budha Ji spent his final years here in deep prayer and meditation along the banks of the Ravi River. Guru Hargobind Sahib Ji traveled personally to Ramdas to serve Baba Budha Ji in his last hours and performed his cremation ceremonies with his own hands in 1631 CE.",
+      "wiki": "https://www.sikhiwiki.org/index.php/Baba_Budha",
+      "limg": "persons/others/baba_budha_ji.webp",
+      "imgs": [
+        "persons/others/baba_budha_ji.webp"
+      ]
     },
     {
       "id": "GURU_ANGAD_DEV_THRONE",
@@ -1836,8 +1888,12 @@
           }
         ]
       },
-      "ctx": "Foundation Day of the Singh Sabha Movement, established in Amritsar in 1873. This reform movement aimed to revive Sikh identity, promote education, and counter the influence of other religions. It led to the establishment of schools, colleges, and the modern Sikh renaissance.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Singh_Sabha"
+      "ctx": "Foundation Day of the Singh Sabha Movement, launched on October 1, 1873 at Manji Sahib, Amritsar, under the leadership of Sardar Thakur Singh Sandhawalia, Baba Khem Singh Bedi, and Kanwar Bikrama Singh of Kapurthala. Born in response to Christian proselytization and Hindu assimilationist pressures, the movement spearheaded a magnificent renaissance in Sikh literature, historical scholarship, Punjabi education, and pristine Gurmat identity, culminating in the establishment of Khalsa College Amritsar.",
+      "wiki": "https://www.sikhiwiki.org/index.php/Singh_Sabha",
+      "limg": "events/singh_sabha_movement.webp",
+      "imgs": [
+        "events/singh_sabha_movement.webp"
+      ]
     },
     {
       "id": "GURU_NANAK_DEATH",
@@ -1887,8 +1943,12 @@
           }
         ]
       },
-      "ctx": "Jormela Baba Budha Thatha is an annual religious gathering commemorating Baba Budha Ji at Thatha, a historic site associated with the great Sikh saint who served the first six Gurus with devotion.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Baba_Budha"
+      "ctx": "Annual religious gathering at Gurdwara Bir Baba Budha Ji in Thatha (Jhabal, Amritsar). It marks the sacred spot where Mata Ganga Ji, consort of Sri Guru Arjan Dev Ji, walked on foot with simple Missi Roti, Lassi, and crushed onion to seek the blessings of venerable Baba Budha Ji, who blessed her that she would give birth to a warrior Guru who would crush oppressors like an onion, foreshadowing the advent of Sri Guru Hargobind Sahib Ji.",
+      "wiki": "https://www.sikhiwiki.org/index.php/Baba_Budha",
+      "limg": "events/mela_baba_budha_thatha.webp",
+      "imgs": [
+        "events/mela_baba_budha_thatha.webp"
+      ]
     },
     {
       "id": "SHAHIDI_SUKHA_JINDA",
@@ -1910,8 +1970,12 @@
           }
         ]
       },
-      "ctx": "Shaheedi Diwas (Martyrdom Day) of Bhai Sukhdev Singh (Sukha) and Bhai Harjinder Singh (Jinda), Sikh militants who were executed for their involvement in the assassination of General Arun Vaidya, the architect of Operation Blue Star.",
-      "wiki": "https://en.wikipedia.org/wiki/Sukhdev_Singh_and_Harjinder_Singh"
+      "ctx": "Shaheedi Diwas of Bhai Harjinder Singh (Jinda) and Bhai Sukhdev Singh (Sukha), members of the Khalistan Commando Force who were hanged on October 9, 1992 in Yerwada Central Jail, Pune, for the assassination of General A.S. Vaidya, the Chief of Army Staff who commanded Operation Blue Star in June 1984.",
+      "wiki": "https://en.wikipedia.org/wiki/Sukhdev_Singh_and_Harjinder_Singh",
+      "limg": "events/event_060_assu_23.webp",
+      "imgs": [
+        "events/event_060_assu_23.webp"
+      ]
     },
     {
       "id": "HIST_DARBAR_KHALSA_DUSSEHRA",
@@ -1933,8 +1997,12 @@
           }
         ]
       },
-      "ctx": "Darbar Khalsa Dussehra is a unique Sikh celebration where the Khalsa Panth commemorates the festival of Dussehra with a Sikh perspective, celebrating the victory of righteousness over evil and remembering Sikh warriors who fought for justice.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Khalsa"
+      "ctx": "Darbar Khalsa Dussehra represents the distinct Sikh tradition of celebrating the festival through martial vigilance, Shastar Puja (veneration of weapons as emblems of divine justice), and military exercises. Instituted during the era of the Sixth Guru Sri Guru Hargobind Sahib and fortified by Sri Guru Gobind Singh Ji, Sikhs assemble at Takht Sri Hazur Sahib, Akal Takht, and Nihang Dal centres to recite Shastar Naam Mala and reaffirm their duty as Saint-Soldiers protecting the oppressed.",
+      "wiki": "https://www.sikhiwiki.org/index.php/Khalsa",
+      "limg": "events/miri_piri_paatshaahi_6.webp",
+      "imgs": [
+        "events/miri_piri_paatshaahi_6.webp"
+      ]
     },
     {
       "id": "GURU_HAR_KRISHAN_THRONE",
@@ -2165,8 +2233,12 @@
           }
         ]
       },
-      "ctx": "Shaheedi Diwas (Martyrdom Day) of Bhai Beant Singh, one of the bodyguards who assassinated Prime Minister Indira Gandhi on October 31, 1984, in retaliation for Operation Blue Star. He was shot dead immediately after the assassination.",
-      "wiki": "https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi"
+      "ctx": "Shaheedi Diwas of Bhai Beant Singh, who on October 31, 1984, assassinated Prime Minister Indira Gandhi following the catastrophic military invasion and desecration of Sri Harmandir Sahib and Sri Akal Takht Sahib during Operation Blue Star. He was shot and martyred immediately thereafter by Indo-Tibetan Border Police personnel in New Delhi.",
+      "wiki": "https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi",
+      "limg": "events/ghallughara_october_november.webp",
+      "imgs": [
+        "events/ghallughara_october_november.webp"
+      ]
     },
     {
       "id": "GOVT_PUNJABI_SUBA_DIVAS",
@@ -2188,8 +2260,12 @@
           }
         ]
       },
-      "ctx": "Punjabi Suba Divas commemorates the creation of the Punjabi Suba (Punjabi-speaking state) on November 1, 1966. This was achieved after a long struggle by Sikhs, led by the Akali Dal, demanding a state where Punjabi would be the official language. The movement involved significant sacrifices.",
-      "wiki": "https://en.wikipedia.org/wiki/Punjabi_Suba"
+      "ctx": "Punjabi Suba Divas marks the creation of modern Punjab on November 1, 1966. Achieved through a 19-year non-violent mass movement led by the Shiromani Akali Dal under leaders including Master Tara Singh and Sant Fateh Singh, hundreds of thousands of Sikhs courted arrest demanding a Punjabi-speaking state with Gurmukhi as its official language. The struggle successfully led to the reorganization of East Punjab.",
+      "wiki": "https://en.wikipedia.org/wiki/Punjabi_Suba",
+      "limg": "events/punjabi_suba_movement.webp",
+      "imgs": [
+        "events/punjabi_suba_movement.webp"
+      ]
     },
     {
       "id": "MATA_SAHIBKAUR_BIRTH",
@@ -2244,7 +2320,7 @@
           }
         ]
       },
-      "ctx": "Prakash Purab (Birth Anniversary) of Bhagat Namdev Ji. A 13th-14th century saint-poet from Maharashtra whose hymns are in Guru Granth Sahib.",
+      "ctx": "Prakash Purab (Birth Anniversary) of Bhagat Namdev Ji (1270–1350), an eminent saint-poet from Maharashtra whose 61 sacred hymns are enshrined across 18 Ragas in Sri Guru Granth Sahib Ji. Born into a calico-printer family, Namdev Ji's hymns celebrate intimate, ecstatic devotion to the Almighty, narrating how the Divine turned the temple of Dehra for him when Brahmins turned him away because of his low caste, asserting that the Lord belongs equally to all.",
       "img": "https://www.sikhiwiki.org/images/d/dd/Bhagatnamdev.gif",
       "wiki": "https://www.sikhiwiki.org/index.php/Bhagat_Namdev",
       "pri": 70,
@@ -2305,8 +2381,12 @@
           }
         ]
       },
-      "ctx": "Prakash Purab (Birth Anniversary) of Sant Kartar Singh Bhindranwale, who served as the head of Damdami Taksal before Sant Jarnail Singh Bhindranwale. He was a respected Sikh scholar and preacher who contributed significantly to Sikh education and spiritual revival.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Damdami_Taksal"
+      "ctx": "Prakash Purab (Birth Anniversary) of Sant Kartar Singh Ji Khalsa Bhindranwale (1932–1977), the 13th Jathedar of the Damdami Taksal. A fearless preacher of Gurmat and ascetic scholar, he organized 37 massive Nagar Kirtans across Punjab during the Indira Gandhi Emergency to defy state repression and fearlessly awaken the Sikh youth to the ideals of the Khalsa.",
+      "wiki": "https://www.sikhiwiki.org/index.php/Damdami_Taksal",
+      "limg": "events/sant_jarnail_singh_bhindranwale.webp",
+      "imgs": [
+        "events/sant_jarnail_singh_bhindranwale.webp"
+      ]
     },
     {
       "id": "BABA_BUDHA_BIRTH",
@@ -2328,11 +2408,15 @@
           }
         ]
       },
-      "ctx": "Prakash Purab (Birth Anniversary) of Baba Budha Ji (1504-1631), the great Sikh saint who lived through the reigns of the first six Gurus. He performed the coronation ceremonies of several Gurus and served the Panth with devotion for over 75 years. His shrine is at Ramdas Sahib.",
+      "ctx": "Prakash Purab (Birth Anniversary) of Baba Budha Ji (1506–1631), born in Kathu Nangal, Amritsar. One of the most venerated figures in Sikh history, he was blessed as a young boy by Guru Nanak Dev Ji. Baba Budha Ji had the supreme honor of serving the first six Sikh Gurus and performing the ceremonial Gurgaddi tilak (coronation) for five Gurus (from Guru Angad Dev Ji to Guru Hargobind Sahib Ji). He was appointed the first Granthi of Sri Harmandir Sahib upon the first Parkash of the Adi Granth in 1604.",
       "wiki": "https://www.sikhiwiki.org/index.php/Baba_Budha",
       "pid": "BABA_BUDHA_JI",
       "img": "https://www.sikhiwiki.org/images/baba_budha_ji.jpg",
-      "pri": 75
+      "pri": 75,
+      "limg": "persons/others/baba_budha_ji.webp",
+      "imgs": [
+        "persons/others/baba_budha_ji.webp"
+      ]
     },
     {
       "id": "DEATH_JASSA_SINGH_AHLUWALIA",
@@ -2355,7 +2439,11 @@
         ]
       },
       "ctx": "Antim Sanskar (Cremation Day) of Sardar Jassa Singh Ahluwalia (1718-1783), the leader of the Ahluwalia Misl who played a crucial role in Sikh military campaigns, including the capture of Lahore from Ahmad Shah Abdali's forces in 1761.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Jassa_Singh_Ahluwalia"
+      "wiki": "https://www.sikhiwiki.org/index.php/Jassa_Singh_Ahluwalia",
+      "limg": "events/jassa_singh_ahluwalia_birth.webp",
+      "imgs": [
+        "events/jassa_singh_ahluwalia_birth.webp"
+      ]
     },
     {
       "id": "BABA_DEEP_SINGH_MARTYRDOM",
@@ -2381,7 +2469,7 @@
           }
         ]
       },
-      "ctx": "Shaheedi Diwas (Martyrdom Day) of Baba Deep Singh Ji.",
+      "ctx": "Shaheedi Diwas (Martyrdom Day) of Baba Deep Singh Ji (1682–1757), revered Sikh scholar, copyist of Sri Guru Granth Sahib, and the first Jathedar of Damdami Taksal and Shaheedan Misl. In November 1757, learning that Afghan commander Jahan Khan had desecrated Sri Harmandir Sahib and filled the sacred Sarovar, 75-year-old Baba Deep Singh Ji led a band of Khalsa warriors to liberate the holy shrine. In the fierce Battle of Amritsar, even after receiving a mortal neck wound, he fought onward wielding his heavy Khanda until reaching the Parikrama of Sri Harmandir Sahib, fulfilling his solemn vow.",
       "img": "https://www.sikhiwiki.org/images/5/5e/Baba_Deep_Singh_fresco_from_Gurdwara_Baba_Atal%2C_Amritsar.jpg",
       "wiki": "https://www.sikhiwiki.org/index.php/Baba_Deep_Singh",
       "pri": 75,
@@ -2411,8 +2499,12 @@
           }
         ]
       },
-      "ctx": "Foundation Day of the Shiromani Gurdwara Parbandhak Committee (SGPC), established in November 1920 after the Gurdwara Reform Movement. The SGPC manages historical Gurdwaras in Punjab, Himachal Pradesh, and Chandigarh, and serves as the elected body representing Sikhs worldwide.",
-      "wiki": "https://www.sikhiwiki.org/index.php/SGPC"
+      "ctx": "Foundation Day of the Shiromani Gurdwara Parbandhak Committee (SGPC), inaugurated on November 15, 1920 at Sri Akal Takht Sahib, Amritsar. Formed during the historic Gurdwara Reform Movement (Akali Tehreek) to free historical Gurdwaras from corrupt hereditary Mahants and British interference, the 175-member committee was tasked with managing shrines under strict Gurmat principles, later statutorily enacted via the Sikh Gurdwaras Act of 1925.",
+      "wiki": "https://www.sikhiwiki.org/index.php/SGPC",
+      "limg": "events/sgpc_foundation.webp",
+      "imgs": [
+        "events/sgpc_foundation.webp"
+      ]
     },
     {
       "id": "SHAHIDI_KARTAR_SINGH_SARABHA",
@@ -2428,8 +2520,12 @@
           }
         ]
       },
-      "ctx": "Shaheedi Diwas (Martyrdom Day) of Kartar Singh Sarabha (1896-1915), a young Sikh revolutionary who fought against British colonial rule as part of the Ghadar Party. He was hanged at the age of 19, inspiring future generations of freedom fighters.",
-      "wiki": "https://en.wikipedia.org/wiki/Kartar_Singh_Sarabha"
+      "ctx": "Shaheedi Diwas (Martyrdom Day) of Shaheed Kartar Singh Sarabha (1896–1915), born in Sarabha village, Ludhiana. One of the most electrifying young revolutionaries of the Ghadar Party, he managed the revolutionary newspaper 'The Ghadar' in San Francisco before returning to Punjab to orchestrate an armed revolt against the British Raj among Indian soldiers. Betrayed by an informant, he was arrested and hanged in Lahore Central Jail on November 16, 1915 at only 19 years of age, becoming the legendary role model for Bhagat Singh.",
+      "wiki": "https://en.wikipedia.org/wiki/Kartar_Singh_Sarabha",
+      "limg": "events/shaheed_kartar_singh_sarabha.webp",
+      "imgs": [
+        "events/shaheed_kartar_singh_sarabha.webp"
+      ]
     },
     {
       "id": "DEATH_BHAI_MARDANA",
@@ -2513,8 +2609,12 @@
           }
         ]
       },
-      "ctx": "Shaheedi Diwas (Martyrdom Day) of Baba Gurbaksh Singh Ji, a devout Sikh who attained martyrdom defending the Sikh faith during the turbulent 18th century.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Martyrdom_in_Sikhism"
+      "ctx": "Shaheedi Diwas (Martyrdom Day) of Nihang Baba Gurbaksh Singh Ji (1688–1764). During the seventh Afghan invasion in December 1764, Ahmad Shah Abdali marched upon Amritsar with 30,000 troops. Baba Gurbaksh Singh, along with a committed band of only 30 Nihang Singhs, stood guard outside Sri Darbar Sahib. Choosing martyrdom over surrender, they charged the Afghan vanguard near the Akal Takht, battling to their last breath to protect the dignity and sanctity of Sri Harmandir Sahib.",
+      "wiki": "https://www.sikhiwiki.org/index.php/Martyrdom_in_Sikhism",
+      "limg": "events/baba_gurbaksh_singh.webp",
+      "imgs": [
+        "events/baba_gurbaksh_singh.webp"
+      ]
     },
     {
       "id": "GURU_GOBIND_SINGH_THRONE",
@@ -2670,8 +2770,12 @@
           }
         ]
       },
-      "ctx": "Foundation Day of the Shiromani Akali Dal, established on December 14, 1920, as the political wing of the SGPC. The Akali Dal led the Gurdwara Reform Movement and played a crucial role in the Indian independence struggle and post-independence Punjab politics.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Akali_Dal"
+      "ctx": "Foundation Day of the Shiromani Akali Dal, established on December 14, 1920 at Sri Akal Takht Sahib, Amritsar, as the task force of the Panth during the Gurdwara Reform Movement. Dedicated to liberating historic Gurdwaras from corrupt Mahants through non-violent agitation, the Akali Dal unified regional Jathas under a single leadership (with S. Sarmukh Singh Jhabal as its first president) and went on to play a pivotal role in India's independence struggle.",
+      "wiki": "https://www.sikhiwiki.org/index.php/Akali_Dal",
+      "limg": "events/akali_dal_foundation.webp",
+      "imgs": [
+        "events/akali_dal_foundation.webp"
+      ]
     },
     {
       "id": "GURU_TEGH_BAHADUR_SIS_SASKAR",
@@ -2757,8 +2861,12 @@
           }
         ]
       },
-      "ctx": "Shaheedi Diwas (Martyrdom Day) of Baba Jeevan Singh Ji, a brave Sikh warrior who attained martyrdom during the Battle of Chamkaur in December 1705, fighting alongside Guru Gobind Singh Ji and the Sahibzadas.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Battle_of_Chamkaur"
+      "ctx": "Shaheedi Diwas of Baba Jeevan Singh Ji (formerly Bhai Jaita Ji, 1649–1705). Following the public martyrdom of the Ninth Guru, Sri Guru Tegh Bahadur Ji, in Chandni Chowk, Delhi (1675), Bhai Jaita performed the perilous feat of retrieving the Guru's sacred head (Sis) and carrying it across hundreds of miles to Sri Anandpur Sahib. Guru Gobind Singh Ji embraced him, proclaiming 'Ranghreta Guru Ka Beta' (Ranghreta is the Son of the Guru). He was initiated into the Khalsa Panth as Baba Jeevan Singh, trained Khalsa warriors, commanded the rear guard during the evacuation of Anandpur at Sarsa river, and fell fighting valiantly at the Battle of Chamkaur.",
+      "wiki": "https://www.sikhiwiki.org/index.php/Battle_of_Chamkaur",
+      "limg": "events/baba_jeevan_singh.webp",
+      "imgs": [
+        "events/baba_jeevan_singh.webp"
+      ]
     },
     {
       "id": "ELDER_SAHIBZADAS_MARTYRDOM",
@@ -2812,8 +2920,12 @@
           }
         ]
       },
-      "ctx": "Shaheedi Diwas (Martyrdom Day) of Bhai Sangat Singh Ji, one of the last Sikhs to attain martyrdom at the Battle of Chamkaur in December 1705. He fought valiantly alongside Guru Gobind Singh Ji.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Battle_of_Chamkaur"
+      "ctx": "Shaheedi Diwas of Bhai Sangat Singh Ji, a devoted Sikh commander whose appearance closely resembled Guru Gobind Singh Ji. At the historic Battle of Chamkaur (December 1705), when the fortress was surrounded by hundreds of thousands of imperial troops, the Panj Pyare ordered Guru Gobind Singh Ji to depart so the Khalsa Panth could live on. Bhai Sangat Singh was placed in command, donning the Guru's Kalgi (plume) and royal Choga. Standing on the ramparts of Chamkaur Garhi, he kept the enemy forces engaged until his glorious martyrdom, ensuring the Guru's safe passage.",
+      "wiki": "https://www.sikhiwiki.org/index.php/Battle_of_Chamkaur",
+      "limg": "events/all_shaheeds_at_chamkaur_martyrdom.webp",
+      "imgs": [
+        "events/all_shaheeds_at_chamkaur_martyrdom.webp"
+      ]
     },
     {
       "id": "YOUNGER_SAHIBZADAS_MARTYRDOM",
@@ -2902,8 +3014,12 @@
           }
         ]
       },
-      "ctx": "Shaheedi Diwas (Martyrdom Day) of Bhai Kehar Singh and Bhai Satwant Singh, who were involved in the assassination of Prime Minister Indira Gandhi on October 31, 1984, and were later executed.",
-      "wiki": "https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi"
+      "ctx": "Shaheedi Diwas of Bhai Satwant Singh and Bhai Kehar Singh, who were hanged on January 6, 1989 in Tihar Jail, New Delhi, for their involvement in the October 31, 1984 assassination of Indira Gandhi following the military assault on Sri Darbar Sahib. Their mortal remains were cremated inside the jail premises without being handed over to their families.",
+      "wiki": "https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi",
+      "limg": "events/ghallughara_october_november.webp",
+      "imgs": [
+        "events/ghallughara_october_november.webp"
+      ]
     },
     {
       "id": "HIST_HARIMANDIR_FOUNDATION_STONE",
@@ -2929,8 +3045,12 @@
           }
         ]
       },
-      "ctx": "Commemorates the laying of the foundation stone of Sri Harmandir Sahib (Golden Temple) by Sufi Saint Sai Mian Mir in 1588. Guru Arjan Dev Ji requested the Muslim saint to perform this ceremony, demonstrating Sikhism's inclusive spirit. The Harmandir Sahib became the spiritual center of Sikhism.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Harmandir_Sahib"
+      "ctx": "Commemorates the laying of the foundation stone of Sri Harmandir Sahib (Golden Temple) in Amritsar on 1 Magh 1645 Bk (December 1588). In an extraordinary testament to universal brotherhood and the inclusive spirit of Sikhi, Sri Guru Arjan Dev Ji invited the venerated Sufi saint of Lahore, Hazrat Sai Mian Mir Ji, to lay the foundation brick. Designed with four entrances open to all directions, castes, and creeds, it stands as the timeless spiritual center of the Sikh faith.",
+      "wiki": "https://www.sikhiwiki.org/index.php/Harmandir_Sahib",
+      "limg": "events/harmandir_sahib_foundation.webp",
+      "imgs": [
+        "events/harmandir_sahib_foundation.webp"
+      ]
     },
     {
       "id": "JORMELA_MUKTSAR_MAGHI",
@@ -3018,7 +3138,7 @@
           }
         ]
       },
-      "ctx": "Prakash Purab (Birth Anniversary) of Baba Deep Singh Ji. Sikh scholar, warrior, and martyr who fought for Harmandir Sahib (1682-1757).",
+      "ctx": "Prakash Purab (Birth Anniversary) of Baba Deep Singh Ji (January 26, 1682 – November 11, 1757), born in Pahuwind village, Amritsar. A foremost disciple of Guru Gobind Singh Ji, he mastered Gurmukhi, Persian, Arabic, and martial warfare. He assisted Bhai Mani Singh Ji in preparing handwritten saroops of Sri Guru Granth Sahib Ji at Talwandi Sabo (Damdama Sahib) and founded the Taksal's exegetical and scholarly tradition.",
       "img": "https://www.sikhiwiki.org/images/5/5e/Baba_Deep_Singh_fresco_from_Gurdwara_Baba_Atal%2C_Amritsar.jpg",
       "wiki": "https://www.sikhiwiki.org/index.php/Baba_Deep_Singh",
       "pri": 70,
@@ -3109,8 +3229,12 @@
           }
         ]
       },
-      "ctx": "Basant Panchami is celebrated in the Sikh tradition as a day of welcoming spring. Sikhs visit Gurdwaras, wear yellow (symbolizing spring), and some perform Kirtan in Raga Basant. It is particularly significant at Gurdwara Chheharta Sahib in Amritsar.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Basant"
+      "ctx": "Basant Panchami in Sikh tradition marks the arrival of spring and is celebrated with profound spiritual fervor, notably at Gurdwara Chheharta Sahib near Amritsar. Guru Arjan Dev Ji constructed the historic six-wheeled well (Chheharta) here to alleviate water scarcity, around which the community gathered. Kirtan is traditionally recited in Raga Basant from Sri Guru Granth Sahib Ji, symbolizing spiritual blossoming and renewal.",
+      "wiki": "https://www.sikhiwiki.org/index.php/Basant",
+      "limg": "events/basant_panchami_chheharta.webp",
+      "imgs": [
+        "events/basant_panchami_chheharta.webp"
+      ]
     },
     {
       "id": "SAHIBZADA_AJIT_SINGH_BIRTH",
@@ -3205,7 +3329,7 @@
           }
         ]
       },
-      "ctx": "Prakash Purab (Birth Anniversary) of Bhagat Ravidas Ji. A 15th-16th century saint-poet whose hymns are included in Guru Granth Sahib.",
+      "ctx": "Prakash Purab (Birth Anniversary) of Bhagat Ravidas Ji, a visionary 15th-century socio-religious poet-saint from Varanasi. His 41 divine hymns across 16 Ragas in Sri Guru Granth Sahib Ji articulated the immortal concept of 'Begumpura' (the City without Sorrow)—an egalitarian society completely devoid of caste prejudice, exploitation, taxes, and tyranny. His life exemplified dignity of labor and spiritual supremacy through pure inner devotion.",
       "img": "https://www.sikhiwiki.org/images/9/95/Ravidas_001.jpg",
       "wiki": "https://www.sikhiwiki.org/index.php/Bhagat_Ravidas",
       "pri": 70,
@@ -3244,9 +3368,9 @@
       "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Photograph_of_the_mass_funeral_of_Sikh_martyrs_of_the_Nankana_massacre_('Saka_Nankana'),_ca.1921.jpg",
       "wiki": "https://www.sikhiwiki.org/index.php/Saka_Nankana",
       "pri": 70,
-      "limg": "events/event_105_phagan_10.webp",
+      "limg": "events/saka_nankana_sahib.webp",
       "imgs": [
-        "events/event_105_phagan_10.webp"
+        "events/saka_nankana_sahib.webp"
       ]
     },
     {
@@ -3277,9 +3401,9 @@
       "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Gurdwara_Nankana_Sahib.jpg",
       "wiki": "https://www.sikhiwiki.org/index.php/Jaito_Morcha",
       "pri": 70,
-      "limg": "events/event_105_phagan_10.webp",
+      "limg": "events/jaito_da_morcha.webp",
       "imgs": [
-        "events/event_105_phagan_10.webp"
+        "events/jaito_da_morcha.webp"
       ]
     },
     {
@@ -3292,8 +3416,12 @@
           "m": 11
         }
       },
-      "ctx": "Foundation Day of Sri Harmandir Sahib (Golden Temple), Amritsar. The foundation was laid by Sufi Saint Sai Mian Mir in 1588 at the request of Guru Arjan Dev Ji. The Harmandir Sahib was completed in 1604 and became the central shrine of Sikhism.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Harmandir_Sahib"
+      "ctx": "Marks the completion and first installation (Pehla Parkash) of the Adi Granth at Sri Harmandir Sahib in 1604 CE. Sri Guru Arjan Dev Ji compiled the sacred hymns of the first five Gurus, fifteen Bhagats, eleven Bhatts, and Gursikhs, sanctifying the shrine as the dwelling place of the Word of God. Revered Baba Budha Ji was appointed the first Granthi, carrying the sacred Scripture on his head with Guru Arjan Dev Ji waving the Chaur Sahib.",
+      "wiki": "https://www.sikhiwiki.org/index.php/Harmandir_Sahib",
+      "limg": "events/harmandir_sahib_completion.webp",
+      "imgs": [
+        "events/harmandir_sahib_completion.webp"
+      ]
     },
     {
       "id": "SANGRAND_CHET",
@@ -3499,7 +3627,11 @@
           }
         ]
       },
-      "ctx": "Sangrand marks the beginning of the Assu month in the Nanakshahi calendar. It is a time for fresh starts, spiritual reflection, and community gatherings at Gurdwaras."
+      "ctx": "Sangrand marks the first day of Assu (mid-September to mid-October), the seventh month in the Nanakshahi calendar. In Barah Maha (Rag Majh), Guru Arjan Dev Ji reminds seekers that true peace comes from love and remembrance of the Divine, as the heat of summer gives way to the gentle breeze of autumn.",
+      "limg": "seasons/sangrand_assu.webp",
+      "imgs": [
+        "seasons/sangrand_assu.webp"
+      ]
     },
     {
       "id": "SANGRAND_KATTAK",
@@ -3525,7 +3657,11 @@
           }
         ]
       },
-      "ctx": "Sangrand marks the beginning of the Kattak month in the Nanakshahi calendar. It is a time for fresh starts, spiritual reflection, and community gatherings at Gurdwaras."
+      "ctx": "Sangrand marks the first day of Katak (mid-October to mid-November), the eighth month in the Nanakshahi calendar. In Barah Maha, Guru Arjan Dev Ji teaches that all spiritual rewards are attained when the mind is attuned to the Lord's lotus feet, bringing illumination amidst the darkness.",
+      "limg": "seasons/sangrand_katak.webp",
+      "imgs": [
+        "seasons/sangrand_katak.webp"
+      ]
     },
     {
       "id": "SANGRAND_MAGHAR",
@@ -3551,7 +3687,11 @@
           }
         ]
       },
-      "ctx": "Sangrand marks the beginning of the Maghar month in the Nanakshahi calendar. It is a time for fresh starts, spiritual reflection, and community gatherings at Gurdwaras."
+      "ctx": "Sangrand marks the first day of Maghar (mid-November to mid-December), the ninth month in the Nanakshahi calendar. In Barah Maha, the Guru reflects that those imbued with divine love sit gloriously in the presence of the Lord, unaffected by worldly sorrow.",
+      "limg": "seasons/sangrand_maghar.webp",
+      "imgs": [
+        "seasons/sangrand_maghar.webp"
+      ]
     },
     {
       "id": "SANGRAND_POH",
@@ -3577,7 +3717,11 @@
           }
         ]
       },
-      "ctx": "Sangrand marks the beginning of the Poh month in the Nanakshahi calendar. It is a time for fresh starts, spiritual reflection, and community gatherings at Gurdwaras."
+      "ctx": "Sangrand marks the first day of Poh (mid-December to mid-January), the tenth month in the Nanakshahi calendar. In Barah Maha, the Guru notes that the cold of winter cannot touch one embraced by the Lord's presence. In Sikh history, Poh is revered as the month of supreme sacrifices by the Sahibzadas and Mata Gujri Ji.",
+      "limg": "seasons/sangrand_poh.webp",
+      "imgs": [
+        "seasons/sangrand_poh.webp"
+      ]
     },
     {
       "id": "SANGRAND_MAGH",
@@ -3633,7 +3777,11 @@
           }
         ]
       },
-      "ctx": "Sangrand marks the beginning of the Phagan month in the Nanakshahi calendar. It is a time for fresh starts, spiritual reflection, and community gatherings at Gurdwaras."
+      "ctx": "Sangrand marks the first day of Phagan (mid-February to mid-March), the twelfth and final month of the Nanakshahi calendar. In Barah Maha, Guru Arjan Dev Ji describes Phagan as a season of blossoming joy and spiritual union for those who have realized the Almighty.",
+      "limg": "seasons/sangrand_phagun.webp",
+      "imgs": [
+        "seasons/sangrand_phagun.webp"
+      ]
     }
   ],
   "lastUpdated": "2026-04-12T12:53:24.460044"

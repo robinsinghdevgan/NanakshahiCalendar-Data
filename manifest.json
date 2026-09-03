@@ -1,11 +1,11 @@
 {
-  "version": 4,
-  "description": "Added comprehensive Sikh history profiles following sacred Ardaas sequence of remembrance",
+  "version": 5,
+  "description": "Added missing high-confidence images and enriched scholarly context for non-Guru historical events",
   "files": [
     {
       "name": "events_data.json",
       "url": "https://robinsinghdevgan.github.io/NanakshahiCalendar-Data/events_data.json",
-      "version": 2
+      "version": 3
     },
     {
       "name": "persons_data.json",
