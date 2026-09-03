@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "files": [
     {
       "name": "events_data.json",
@@ -9,7 +9,7 @@
     {
       "name": "persons_data.json",
       "url": "https://robinsinghdevgan.github.io/NanakshahiCalendar-Data/persons_data.json",
-      "version": 1
+      "version": 2
     }
   ]
 }

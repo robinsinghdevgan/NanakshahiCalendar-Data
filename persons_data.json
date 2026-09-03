@@ -281,9 +281,9 @@
       "articlePath": "persons/bhai_daya_singh.json",
       "hasFullArticle": true,
       "displayEmoji": "⚔️",
-      "priority": 80,
-      "mainImage": "images/persons/downloaded/bhai_daya_singh.jpg",
-      "thumbnailImage": "images/persons/downloaded/bhai_daya_singh.jpg",
+      "priority": 85,
+      "mainImage": "images/persons/panj_pyare/panj_pyare_collective.webp",
+      "thumbnailImage": "images/persons/panj_pyare/panj_pyare_collective.webp",
       "media": {
         "limg": "persons/panj_pyare/panj_pyare_collective.webp"
       }
@@ -302,9 +302,9 @@
       "articlePath": "persons/bhai_dharam_singh.json",
       "hasFullArticle": true,
       "displayEmoji": "⚔️",
-      "priority": 80,
-      "mainImage": "images/persons/downloaded/panj_pyare_group.jpg",
-      "thumbnailImage": "images/persons/downloaded/panj_pyare_group.jpg",
+      "priority": 84,
+      "mainImage": "images/persons/panj_pyare/panj_pyare_collective.webp",
+      "thumbnailImage": "images/persons/panj_pyare/panj_pyare_collective.webp",
       "media": {
         "limg": "persons/panj_pyare/panj_pyare_collective.webp"
       }
@@ -323,9 +323,9 @@
       "articlePath": "persons/bhai_himmat_singh.json",
       "hasFullArticle": true,
       "displayEmoji": "⚔️",
-      "priority": 80,
-      "mainImage": "images/persons/downloaded/panj_pyare_group.jpg",
-      "thumbnailImage": "images/persons/downloaded/panj_pyare_group.jpg",
+      "priority": 83,
+      "mainImage": "images/persons/panj_pyare/panj_pyare_collective.webp",
+      "thumbnailImage": "images/persons/panj_pyare/panj_pyare_collective.webp",
       "media": {
         "limg": "persons/panj_pyare/panj_pyare_collective.webp"
       }
@@ -344,9 +344,9 @@
       "articlePath": "persons/bhai_mohkam_singh.json",
       "hasFullArticle": true,
       "displayEmoji": "⚔️",
-      "priority": 80,
-      "mainImage": "images/persons/downloaded/panj_pyare_group.jpg",
-      "thumbnailImage": "images/persons/downloaded/panj_pyare_group.jpg",
+      "priority": 82,
+      "mainImage": "images/persons/panj_pyare/panj_pyare_collective.webp",
+      "thumbnailImage": "images/persons/panj_pyare/panj_pyare_collective.webp",
       "media": {
         "limg": "persons/panj_pyare/panj_pyare_collective.webp"
       }
@@ -365,9 +365,9 @@
       "articlePath": "persons/bhai_sahib_singh.json",
       "hasFullArticle": true,
       "displayEmoji": "⚔️",
-      "priority": 80,
-      "mainImage": "images/persons/downloaded/panj_pyare_group.jpg",
-      "thumbnailImage": "images/persons/downloaded/panj_pyare_group.jpg",
+      "priority": 81,
+      "mainImage": "images/persons/panj_pyare/panj_pyare_collective.webp",
+      "thumbnailImage": "images/persons/panj_pyare/panj_pyare_collective.webp",
       "media": {
         "limg": "persons/panj_pyare/panj_pyare_collective.webp"
       }
