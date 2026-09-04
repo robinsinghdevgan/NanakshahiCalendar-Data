@@ -1,11 +1,11 @@
 {
-    "version":  9,
-    "description":  "Removed broken, generic placeholder and unrelated person images.",
+    "version":  10,
+    "description":  "Updated 12 Nanakshahi month seasons imagery and rich descriptions aligned with Baarah-Mah by Guru Nanak Dev Ji and Guru Arjan Dev Ji.",
     "files":  [
                   {
                       "name":  "events_data.json",
                       "url":  "https://robinsinghdevgan.github.io/NanakshahiCalendar-Data/events_data.json",
-                      "version":  4
+                      "version":  5
                   },
                   {
                       "name":  "persons_data.json",
