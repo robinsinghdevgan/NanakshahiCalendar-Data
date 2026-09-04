@@ -282,10 +282,10 @@
       "hasFullArticle": true,
       "displayEmoji": "⚔️",
       "priority": 85,
-      "mainImage": "images/persons/panj_pyare/panj_pyare_collective.webp",
-      "thumbnailImage": "images/persons/panj_pyare/panj_pyare_collective.webp",
+      "mainImage": "images/persons/panj_pyare/panj-pyaare.png",
+      "thumbnailImage": "images/persons/panj_pyare/panj-pyaare.png",
       "media": {
-        "limg": "persons/panj_pyare/panj_pyare_collective.webp"
+        "limg": "persons/panj_pyare/panj-pyaare.png"
       }
     },
     {
@@ -303,10 +303,10 @@
       "hasFullArticle": true,
       "displayEmoji": "⚔️",
       "priority": 84,
-      "mainImage": "images/persons/panj_pyare/panj_pyare_collective.webp",
-      "thumbnailImage": "images/persons/panj_pyare/panj_pyare_collective.webp",
+      "mainImage": "images/persons/panj_pyare/panj-pyaare.png",
+      "thumbnailImage": "images/persons/panj_pyare/panj-pyaare.png",
       "media": {
-        "limg": "persons/panj_pyare/panj_pyare_collective.webp"
+        "limg": "persons/panj_pyare/panj-pyaare.png"
       }
     },
     {
@@ -324,10 +324,10 @@
       "hasFullArticle": true,
       "displayEmoji": "⚔️",
       "priority": 83,
-      "mainImage": "images/persons/panj_pyare/panj_pyare_collective.webp",
-      "thumbnailImage": "images/persons/panj_pyare/panj_pyare_collective.webp",
+      "mainImage": "images/persons/panj_pyare/panj-pyaare.png",
+      "thumbnailImage": "images/persons/panj_pyare/panj-pyaare.png",
       "media": {
-        "limg": "persons/panj_pyare/panj_pyare_collective.webp"
+        "limg": "persons/panj_pyare/panj-pyaare.png"
       }
     },
     {
@@ -345,10 +345,10 @@
       "hasFullArticle": true,
       "displayEmoji": "⚔️",
       "priority": 82,
-      "mainImage": "images/persons/panj_pyare/panj_pyare_collective.webp",
-      "thumbnailImage": "images/persons/panj_pyare/panj_pyare_collective.webp",
+      "mainImage": "images/persons/panj_pyare/panj-pyaare.png",
+      "thumbnailImage": "images/persons/panj_pyare/panj-pyaare.png",
       "media": {
-        "limg": "persons/panj_pyare/panj_pyare_collective.webp"
+        "limg": "persons/panj_pyare/panj-pyaare.png"
       }
     },
     {
@@ -366,10 +366,10 @@
       "hasFullArticle": true,
       "displayEmoji": "⚔️",
       "priority": 81,
-      "mainImage": "images/persons/panj_pyare/panj_pyare_collective.webp",
-      "thumbnailImage": "images/persons/panj_pyare/panj_pyare_collective.webp",
+      "mainImage": "images/persons/panj_pyare/panj-pyaare.png",
+      "thumbnailImage": "images/persons/panj_pyare/panj-pyaare.png",
       "media": {
-        "limg": "persons/panj_pyare/panj_pyare_collective.webp"
+        "limg": "persons/panj_pyare/panj-pyaare.png"
       }
     },
     {
@@ -383,15 +383,15 @@
       "deathYear": 1705,
       "birthPlace": "Paonta Sahib",
       "mainPlace": "Chamkaur Sahib",
-      "mainImage": "images/persons/sahibzadas/sahibzada_ajit_singh_birth.webp",
-      "thumbnailImage": "images/persons/sahibzadas/sahibzada_ajit_singh_birth.webp",
+      "mainImage": "images/persons/sahibzadas/ajit.png",
+      "thumbnailImage": "images/persons/sahibzadas/ajit.png",
       "articlePath": "persons/sahibzada_ajit_singh.json",
       "hasFullArticle": true,
       "displayEmoji": "⚔️",
       "priority": 90,
       "media": {
         "img": "https://www.sikhiwiki.org/images/a/a4/Baba_ajit_singh.jpg",
-        "limg": "persons/sahibzadas/sahibzada_ajit_singh_birth.webp",
+        "limg": "persons/sahibzadas/ajit.png",
         "wiki": "https://www.sikhiwiki.org/index.php/Sahibzada_Ajit_Singh"
       }
     },
@@ -406,15 +406,15 @@
       "deathYear": 1705,
       "birthPlace": "Anandpur Sahib",
       "mainPlace": "Chamkaur Sahib",
-      "mainImage": "images/persons/sahibzadas/sahibzada_jujhhar_singh_birth.webp",
-      "thumbnailImage": "images/persons/sahibzadas/sahibzada_jujhhar_singh_birth.webp",
+      "mainImage": "images/persons/sahibzadas/jhujhar.png",
+      "thumbnailImage": "images/persons/sahibzadas/jhujhar.png",
       "articlePath": "persons/sahibzada_jujhar_singh.json",
       "hasFullArticle": true,
       "displayEmoji": "⚔️",
       "priority": 90,
       "media": {
         "img": "https://www.sikhiwiki.org/images/d/df/Jang.jpg",
-        "limg": "persons/sahibzadas/sahibzada_jujhhar_singh_birth.webp",
+        "limg": "persons/sahibzadas/jhujhar.png",
         "wiki": "https://www.sikhiwiki.org/index.php/Sahibzada_Jujhar_Singh"
       }
     },
@@ -473,9 +473,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_DILBAG_SINGH_MUKTE",
@@ -486,9 +486,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_MANN_SINGH_MUKTE",
@@ -499,9 +499,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_NIDHAN_SINGH_MUKTE",
@@ -512,9 +512,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_KHARBARA_SINGH_MUKTE",
@@ -525,9 +525,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_DARBARA_SINGH_MUKTE",
@@ -538,9 +538,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_DYAL_SINGH_MUKTE",
@@ -551,9 +551,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_NIHAL_SINGH_MUKTE",
@@ -564,9 +564,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_KHUSHAL_SINGH_MUKTE",
@@ -577,9 +577,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_GANDA_SINGH_MUKTE",
@@ -590,9 +590,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_ISHMER_SINGH_MUKTE",
@@ -603,9 +603,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_SINGHA_MUKTE",
@@ -616,9 +616,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_BHALLA_SINGH_MUKTE",
@@ -629,9 +629,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_SUHEL_SINGH_MUKTE",
@@ -642,9 +642,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_CHAMBA_SINGH_MUKTE",
@@ -655,9 +655,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_GANGA_SINGH_MUKTE",
@@ -668,9 +668,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_SUMER_SINGH_MUKTE",
@@ -681,9 +681,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_SULTAN_SINGH_MUKTE",
@@ -694,9 +694,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_MAYA_SINGH_MUKTE",
@@ -707,9 +707,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_MASSA_SINGH_MUKTE",
@@ -720,9 +720,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_SARJA_SINGH_MUKTE",
@@ -733,9 +733,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_SADHU_SINGH_MUKTE",
@@ -746,9 +746,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_GULAB_SINGH_MUKTE",
@@ -759,9 +759,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_HARSA_SINGH_MUKTE",
@@ -772,9 +772,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_SANGAT_SINGH_MUKTE",
@@ -785,9 +785,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_HARI_SINGH_MUKTE",
@@ -798,9 +798,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_DHANA_SINGH_MUKTE",
@@ -811,9 +811,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_KARAM_SINGH_MUKTE_1",
@@ -824,9 +824,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_KIRT_SINGH_MUKTE",
@@ -837,9 +837,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_LACHMAN_SINGH_MUKTE",
@@ -850,9 +850,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_BUDDHA_SINGH_MUKTE",
@@ -863,9 +863,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_KESHO_SINGH_MUKTE",
@@ -876,9 +876,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_JADO_SINGH_MUKTE",
@@ -889,9 +889,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_SOBHA_SINGH_MUKTE",
@@ -902,9 +902,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_BHANGA_SINGH_MUKTE",
@@ -915,9 +915,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_JOGA_SINGH_MUKTE",
@@ -928,9 +928,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_DHARAM_SINGH_MUKTE",
@@ -941,9 +941,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_KARAM_SINGH_MUKTE_2",
@@ -954,9 +954,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_KALA_SINGH_MUKTE",
@@ -967,9 +967,9 @@
       "shortBio": "One of the Chaali Mukte (40 Liberated Ones), martyred at the Battle of Muktsar.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 50,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "BHAI_MAHAN_SINGH_MUKTE",
@@ -980,9 +980,9 @@
       "shortBio": "Leader of the Chaali Mukte (40 Liberated Ones). He asked Guru Gobind Singh Ji to tear the disclaimer letter before passing away.",
       "deathYear": 1705,
       "mainPlace": "Muktsar",
-      "mainImage": "images/persons/chaali_mukte/chaali_mukte.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
       "priority": 55,
-      "thumbnailImage": "images/persons/chaali_mukte/chaali_mukte.webp"
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png"
     },
     {
       "id": "MATA_GUJRI",
@@ -995,15 +995,15 @@
       "deathYear": 1705,
       "birthPlace": "Kartarpur",
       "mainPlace": "Sirhind",
-      "mainImage": "images/persons/family/mata_gujri.webp",
-      "thumbnailImage": "images/persons/family/mata_gujri.webp",
+      "mainImage": "images/persons/family/mata-gujri.png",
+      "thumbnailImage": "images/persons/family/mata-gujri.png",
       "articlePath": "persons/mata_gujri_ji.json",
       "hasFullArticle": true,
       "displayEmoji": "🙏",
       "priority": 85,
       "media": {
         "img": "https://www.sikhiwiki.org/images/2/22/Mata_Gujri_and_Y_Sahibzade.JPG",
-        "limg": "persons/family/mata_gujri.webp",
+        "limg": "persons/family/mata-gujri.png",
         "wiki": "https://www.sikhiwiki.org/index.php/Mata_Gujri"
       }
     },
@@ -1020,10 +1020,10 @@
       "hasFullArticle": true,
       "displayEmoji": "⚔️",
       "priority": 85,
-      "mainImage": "images/persons/others/mai_bhago.webp",
-      "thumbnailImage": "images/persons/others/mai_bhago.webp",
+      "mainImage": "images/persons/others/mai-bhago-and-mukte.png",
+      "thumbnailImage": "images/persons/others/mai-bhago-and-mukte.png",
       "media": {
-        "limg": "persons/others/mai_bhago.webp"
+        "limg": "persons/others/mai-bhago-and-mukte.png"
       }
     },
     {
@@ -1043,11 +1043,11 @@
       "priority": 95,
       "media": {
         "img": "https://www.sikhiwiki.org/images/5/5e/Baba_Deep_Singh_fresco_from_Gurdwara_Baba_Atal%2C_Amritsar.jpg",
-        "limg": "persons/others/baba_deep_singh.webp",
+        "limg": "persons/others/deep-singh.png",
         "wiki": "https://www.sikhiwiki.org/index.php/Baba_Deep_Singh"
       },
-      "mainImage": "images/persons/others/baba_deep_singh.webp",
-      "thumbnailImage": "images/persons/others/baba_deep_singh.webp"
+      "mainImage": "images/persons/others/deep-singh.png",
+      "thumbnailImage": "images/persons/others/deep-singh.png"
     },
     {
       "id": "BHAI_MANI_SINGH",
@@ -1065,11 +1065,11 @@
       "priority": 90,
       "media": {
         "img": "https://www.sikhiwiki.org/images/a/ae/Manisinghji.jpg",
-        "limg": "persons/others/bhai_mani_singh.jpg",
+        "limg": "persons/others/mani.jpg",
         "wiki": "https://www.sikhiwiki.org/index.php/Bhai_Mani_Singh"
       },
-      "mainImage": "images/persons/downloaded/bhai_mani_singh.jpg",
-      "thumbnailImage": "images/persons/downloaded/bhai_mani_singh.jpg"
+      "mainImage": "images/persons/others/mani.jpg",
+      "thumbnailImage": "images/persons/others/mani.jpg"
     },
     {
       "id": "BHAI_TARU_SINGH",
@@ -1165,13 +1165,13 @@
       "deathYear": 1636,
       "birthPlace": "Goindwal Sahib",
       "mainPlace": "Amritsar",
-      "mainImage": "images/persons/others/bhai_gurdas.webp",
-      "thumbnailImage": "images/persons/others/bhai_gurdas.webp",
+      "mainImage": "images/persons/others/gurdas.png",
+      "thumbnailImage": "images/persons/others/gurdas.png",
       "articlePath": "persons/bhai_gurdas.json",
       "hasFullArticle": true,
       "priority": 90,
       "media": {
-        "limg": "persons/others/bhai_gurdas.webp"
+        "limg": "persons/others/gurdas.png"
       }
     },
     {
@@ -1438,11 +1438,11 @@
       "priority": 70,
       "media": {
         "img": "https://www.sikhiwiki.org/images/6/6a/Kabirji.jpg",
-        "limg": "persons/bhagats/bhagat_kabir_birth.webp",
+        "limg": "persons/bhagats/kabir.png",
         "wiki": "https://www.sikhiwiki.org/index.php/Bhagat_Kabir"
       },
-      "mainImage": "images/persons/downloaded/bhagat_kabir.jpg",
-      "thumbnailImage": "images/persons/downloaded/bhagat_kabir.jpg"
+      "mainImage": "images/persons/bhagats/kabir.png",
+      "thumbnailImage": "images/persons/bhagats/kabir.png"
     },
     {
       "id": "BHAGAT_NAMDEV",
@@ -1460,11 +1460,11 @@
       "priority": 70,
       "media": {
         "img": "https://www.sikhiwiki.org/images/d/dd/Bhagatnamdev.gif",
-        "limg": "persons/bhagats/bhagat_namdev_birth.webp",
+        "limg": "persons/bhagats/naamdev.jpg",
         "wiki": "https://www.sikhiwiki.org/index.php/Bhagat_Namdev"
       },
-      "mainImage": "images/persons/bhagats/bhagat_namdev_birth.webp",
-      "thumbnailImage": "images/persons/bhagats/bhagat_namdev_birth.webp"
+      "mainImage": "images/persons/bhagats/naamdev.jpg",
+      "thumbnailImage": "images/persons/bhagats/naamdev.jpg"
     },
     {
       "id": "BHAGAT_RAVIDAS",
@@ -1481,11 +1481,11 @@
       "priority": 70,
       "media": {
         "img": "https://www.sikhiwiki.org/images/9/95/Ravidas_001.jpg",
-        "limg": "persons/bhagats/bhagat_ravidas_birth.webp",
+        "limg": "persons/bhagats/ravidas.png",
         "wiki": "https://www.sikhiwiki.org/index.php/Bhagat_Ravidas"
       },
-      "mainImage": "images/persons/downloaded/bhagat_ravidas.jpg",
-      "thumbnailImage": "images/persons/downloaded/bhagat_ravidas.jpg"
+      "mainImage": "images/persons/bhagats/ravidas.png",
+      "thumbnailImage": "images/persons/bhagats/ravidas.png"
     },
     {
       "id": "BHAGAT_FARID",
@@ -1497,13 +1497,13 @@
       "birthYear": 1173,
       "deathYear": 1266,
       "birthPlace": "Kothewal",
-      "mainImage": "images/persons/downloaded/bhagat_farid.jpg",
-      "thumbnailImage": "images/persons/downloaded/bhagat_farid.jpg",
+      "mainImage": "images/persons/bhagats/farid.png",
+      "thumbnailImage": "images/persons/bhagats/farid.png",
       "articlePath": "persons/bhagat_farid.json",
       "hasFullArticle": true,
       "priority": 70,
       "media": {
-        "limg": "persons/bhagats/bhagat_farid.webp"
+        "limg": "persons/bhagats/farid.png"
       }
     },
     {
@@ -1694,10 +1694,10 @@
       "articlePath": "persons/bhatt_kal.json",
       "hasFullArticle": true,
       "priority": 60,
-      "mainImage": "images/persons/bhatts/bhatts_collective.jpg",
-      "thumbnailImage": "images/persons/bhatts/bhatts_collective.jpg",
+      "mainImage": "images/persons/bhatts/bhatt.png",
+      "thumbnailImage": "images/persons/bhatts/bhatt.png",
       "media": {
-        "limg": "persons/bhatts/bhatts_collective.jpg"
+        "limg": "persons/bhatts/bhatt.png"
       }
     },
     {
@@ -1710,10 +1710,10 @@
       "articlePath": "persons/bhatt_jalap.json",
       "hasFullArticle": true,
       "priority": 60,
-      "mainImage": "images/persons/bhatts/bhatts_collective.jpg",
-      "thumbnailImage": "images/persons/bhatts/bhatts_collective.jpg",
+      "mainImage": "images/persons/bhatts/bhatt.png",
+      "thumbnailImage": "images/persons/bhatts/bhatt.png",
       "media": {
-        "limg": "persons/bhatts/bhatts_collective.jpg"
+        "limg": "persons/bhatts/bhatt.png"
       }
     },
     {
@@ -1726,10 +1726,10 @@
       "articlePath": "persons/bhatt_kirat.json",
       "hasFullArticle": true,
       "priority": 60,
-      "mainImage": "images/persons/bhatts/bhatts_collective.jpg",
-      "thumbnailImage": "images/persons/bhatts/bhatts_collective.jpg",
+      "mainImage": "images/persons/bhatts/bhatt.png",
+      "thumbnailImage": "images/persons/bhatts/bhatt.png",
       "media": {
-        "limg": "persons/bhatts/bhatts_collective.jpg"
+        "limg": "persons/bhatts/bhatt.png"
       }
     },
     {
@@ -1742,10 +1742,10 @@
       "articlePath": "persons/bhatt_bhika.json",
       "hasFullArticle": true,
       "priority": 60,
-      "mainImage": "images/persons/bhatts/bhatts_collective.jpg",
-      "thumbnailImage": "images/persons/bhatts/bhatts_collective.jpg",
+      "mainImage": "images/persons/bhatts/bhatt.png",
+      "thumbnailImage": "images/persons/bhatts/bhatt.png",
       "media": {
-        "limg": "persons/bhatts/bhatts_collective.jpg"
+        "limg": "persons/bhatts/bhatt.png"
       }
     },
     {
@@ -1758,10 +1758,10 @@
       "articlePath": "persons/bhatt_salh.json",
       "hasFullArticle": true,
       "priority": 60,
-      "mainImage": "images/persons/bhatts/bhatts_collective.jpg",
-      "thumbnailImage": "images/persons/bhatts/bhatts_collective.jpg",
+      "mainImage": "images/persons/bhatts/bhatt.png",
+      "thumbnailImage": "images/persons/bhatts/bhatt.png",
       "media": {
-        "limg": "persons/bhatts/bhatts_collective.jpg"
+        "limg": "persons/bhatts/bhatt.png"
       }
     },
     {
@@ -1774,10 +1774,10 @@
       "articlePath": "persons/bhatt_bhalh.json",
       "hasFullArticle": true,
       "priority": 60,
-      "mainImage": "images/persons/bhatts/bhatts_collective.jpg",
-      "thumbnailImage": "images/persons/bhatts/bhatts_collective.jpg",
+      "mainImage": "images/persons/bhatts/bhatt.png",
+      "thumbnailImage": "images/persons/bhatts/bhatt.png",
       "media": {
-        "limg": "persons/bhatts/bhatts_collective.jpg"
+        "limg": "persons/bhatts/bhatt.png"
       }
     },
     {
@@ -1790,10 +1790,10 @@
       "articlePath": "persons/bhatt_nalh.json",
       "hasFullArticle": true,
       "priority": 60,
-      "mainImage": "images/persons/bhatts/bhatts_collective.jpg",
-      "thumbnailImage": "images/persons/bhatts/bhatts_collective.jpg",
+      "mainImage": "images/persons/bhatts/bhatt.png",
+      "thumbnailImage": "images/persons/bhatts/bhatt.png",
       "media": {
-        "limg": "persons/bhatts/bhatts_collective.jpg"
+        "limg": "persons/bhatts/bhatt.png"
       }
     },
     {
@@ -1806,10 +1806,10 @@
       "articlePath": "persons/bhatt_gayand.json",
       "hasFullArticle": true,
       "priority": 60,
-      "mainImage": "images/persons/bhatts/bhatts_collective.jpg",
-      "thumbnailImage": "images/persons/bhatts/bhatts_collective.jpg",
+      "mainImage": "images/persons/bhatts/bhatt.png",
+      "thumbnailImage": "images/persons/bhatts/bhatt.png",
       "media": {
-        "limg": "persons/bhatts/bhatts_collective.jpg"
+        "limg": "persons/bhatts/bhatt.png"
       }
     },
     {
@@ -1822,10 +1822,10 @@
       "articlePath": "persons/bhatt_mathura.json",
       "hasFullArticle": true,
       "priority": 60,
-      "mainImage": "images/persons/bhatts/bhatts_collective.jpg",
-      "thumbnailImage": "images/persons/bhatts/bhatts_collective.jpg",
+      "mainImage": "images/persons/bhatts/bhatt.png",
+      "thumbnailImage": "images/persons/bhatts/bhatt.png",
       "media": {
-        "limg": "persons/bhatts/bhatts_collective.jpg"
+        "limg": "persons/bhatts/bhatt.png"
       }
     },
     {
@@ -1838,10 +1838,10 @@
       "articlePath": "persons/bhatt_bal.json",
       "hasFullArticle": true,
       "priority": 60,
-      "mainImage": "images/persons/bhatts/bhatts_collective.jpg",
-      "thumbnailImage": "images/persons/bhatts/bhatts_collective.jpg",
+      "mainImage": "images/persons/bhatts/bhatt.png",
+      "thumbnailImage": "images/persons/bhatts/bhatt.png",
       "media": {
-        "limg": "persons/bhatts/bhatts_collective.jpg"
+        "limg": "persons/bhatts/bhatt.png"
       }
     },
     {
@@ -1854,10 +1854,10 @@
       "articlePath": "persons/bhatt_harbans.json",
       "hasFullArticle": true,
       "priority": 60,
-      "mainImage": "images/persons/bhatts/bhatts_collective.jpg",
-      "thumbnailImage": "images/persons/bhatts/bhatts_collective.jpg",
+      "mainImage": "images/persons/bhatts/bhatt.png",
+      "thumbnailImage": "images/persons/bhatts/bhatt.png",
       "media": {
-        "limg": "persons/bhatts/bhatts_collective.jpg"
+        "limg": "persons/bhatts/bhatt.png"
       }
     },
     {

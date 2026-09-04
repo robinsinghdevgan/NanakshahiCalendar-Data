@@ -1,16 +1,16 @@
-{
-  "version": 5,
-  "description": "Added missing high-confidence images and enriched scholarly context for non-Guru historical events",
-  "files": [
-    {
-      "name": "events_data.json",
-      "url": "https://robinsinghdevgan.github.io/NanakshahiCalendar-Data/events_data.json",
-      "version": 3
-    },
-    {
-      "name": "persons_data.json",
-      "url": "https://robinsinghdevgan.github.io/NanakshahiCalendar-Data/persons_data.json",
-      "version": 3
-    }
-  ]
+﻿{
+    "version":  6,
+    "description":  "Updated images for several historical persons including Gurus, Sahibzadas, Bhagats, and Martyrs",
+    "files":  [
+                  {
+                      "name":  "events_data.json",
+                      "url":  "https://robinsinghdevgan.github.io/NanakshahiCalendar-Data/events_data.json",
+                      "version":  3
+                  },
+                  {
+                      "name":  "persons_data.json",
+                      "url":  "https://robinsinghdevgan.github.io/NanakshahiCalendar-Data/persons_data.json",
+                      "version":  4
+                  }
+              ]
 }
