@@ -599,11 +599,11 @@
       "pri": 100,
       "pid": "GURU_NANAK_DEV",
       "imgs": [
-        "events/guru_nanak_dev_merged.jpg",
+        "events/guru_nanak_dev_merged.webp",
         "events/guru_nanak_dev_merged.webp",
         "events/guru_nanak_dev_birth.webp"
       ],
-      "limg": "events/guru_nanak_dev_merged.jpg"
+      "limg": "events/guru_nanak_dev_merged.webp"
     },
     {
       "id": "GURU_ANGAD_DEV_BIRTH",
@@ -666,10 +666,10 @@
       "pri": 70,
       "pid": "BHAGAT_DHANNA",
       "imgs": [
-        "events/bhagat_dhanna_birth.jpg",
+        "events/bhagat_dhanna_birth.webp",
         "events/bhagat_dhanna_birth.webp"
       ],
-      "limg": "events/bhagat_dhanna_birth.jpg"
+      "limg": "events/bhagat_dhanna_birth.webp"
     },
     {
       "id": "BIRTH_BABA_FARID",
