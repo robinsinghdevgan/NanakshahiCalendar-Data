@@ -1,5 +1,5 @@
 {
-  "v": 7,
+  "v": 8,
   "persons": [
     {
       "id": "GURU_NANAK_DEV",
@@ -1107,12 +1107,7 @@
       "articlePath": "persons/bhai_kanhiya.json",
       "hasFullArticle": true,
       "displayEmoji": "🙏",
-      "priority": 85,
-      "mainImage": "images/persons/others/bhai_kanhiya.webp",
-      "thumbnailImage": "images/persons/others/bhai_kanhiya.webp",
-      "media": {
-        "limg": "persons/others/bhai_kanhiya.webp"
-      }
+      "priority": 85
     },
     {
       "id": "MAHARAJA_RANJIT_SINGH",
@@ -1186,12 +1181,7 @@
       "birthPlace": "Talwandi",
       "articlePath": "persons/bhai_mardana.json",
       "hasFullArticle": true,
-      "priority": 90,
-      "mainImage": "images/persons/gursikhs/bhai_mardana.jpg",
-      "thumbnailImage": "images/persons/gursikhs/bhai_mardana.jpg",
-      "media": {
-        "limg": "persons/gursikhs/bhai_mardana.jpg"
-      }
+      "priority": 90
     },
     {
       "id": "BHAI_SATTA",
@@ -1202,12 +1192,7 @@
       "shortBio": "Prominent musician who served in the Guru's court.",
       "articlePath": "persons/bhai_satta.json",
       "hasFullArticle": true,
-      "priority": 65,
-      "mainImage": "images/persons/gursikhs/bhai_mardana.jpg",
-      "thumbnailImage": "images/persons/gursikhs/bhai_mardana.jpg",
-      "media": {
-        "limg": "persons/gursikhs/bhai_mardana.jpg"
-      }
+      "priority": 65
     },
     {
       "id": "BHAI_BALVAND",
@@ -1218,12 +1203,7 @@
       "shortBio": "Celebrated musician and contributor to the Guru Granth Sahib.",
       "articlePath": "persons/bhai_balvand.json",
       "hasFullArticle": true,
-      "priority": 65,
-      "mainImage": "images/persons/gursikhs/bhai_mardana.jpg",
-      "thumbnailImage": "images/persons/gursikhs/bhai_mardana.jpg",
-      "media": {
-        "limg": "persons/gursikhs/bhai_mardana.jpg"
-      }
+      "priority": 65
     },
     {
       "id": "BABA_SUNDAR",
@@ -1234,12 +1214,7 @@
       "shortBio": "Author of the 'Sadu' composition in the Sri Guru Granth Sahib.",
       "articlePath": "persons/baba_sundar.json",
       "hasFullArticle": true,
-      "priority": 65,
-      "mainImage": "images/persons/gursikhs/bhai_mardana.jpg",
-      "thumbnailImage": "images/persons/gursikhs/bhai_mardana.jpg",
-      "media": {
-        "limg": "persons/gursikhs/bhai_mardana.jpg"
-      }
+      "priority": 65
     },
     {
       "id": "BHAI_MATI_DAS",
@@ -1273,15 +1248,10 @@
       "deathYear": 1675,
       "birthPlace": "Karyala",
       "mainPlace": "Delhi",
-      "mainImage": "images/persons/others/bhai_sati_das.webp",
-      "thumbnailImage": "images/persons/others/bhai_sati_das.webp",
       "articlePath": "persons/bhai_sati_das.json",
       "hasFullArticle": true,
       "displayEmoji": "🙏",
-      "priority": 50,
-      "media": {
-        "limg": "persons/others/bhai_sati_das.webp"
-      }
+      "priority": 50
     },
     {
       "id": "BHAI_DAYALA",
@@ -1335,14 +1305,9 @@
       "deathYear": 1753,
       "birthPlace": "Kaloke",
       "mainPlace": "Amritsar",
-      "mainImage": "images/persons/others/nawab_kapur_singh.webp",
-      "thumbnailImage": "images/persons/others/nawab_kapur_singh.webp",
       "articlePath": "persons/nawab_kapur_singh.json",
       "hasFullArticle": true,
-      "priority": 85,
-      "media": {
-        "limg": "persons/others/nawab_kapur_singh.webp"
-      }
+      "priority": 85
     },
     {
       "id": "BABA_BANDA_SINGH_BAHADUR",
@@ -1377,17 +1342,10 @@
       "deathYear": 1745,
       "birthPlace": "Jambar",
       "mainPlace": "Lahore",
-      "mainImage": "images/persons/others/bhai_subeg_singh_martyrdom.webp",
-      "thumbnailImage": "images/persons/others/bhai_subeg_singh_martyrdom.webp",
       "articlePath": "persons/bhai_subeg_singh.json",
       "hasFullArticle": false,
       "displayEmoji": "🙏",
-      "priority": 60,
-      "media": {
-        "img": "https://www.sikhiwiki.org/images/4/4b/Charakhree.jpg",
-        "limg": "persons/others/bhai_subeg_singh_martyrdom.webp",
-        "wiki": "https://www.sikhiwiki.org/index.php/Bhai_Subeg_Singh"
-      }
+      "priority": 60
     },
     {
       "id": "BHAI_SHAHBAAZ_SINGH",
@@ -1399,8 +1357,6 @@
       "birthYear": null,
       "deathYear": 1745,
       "mainPlace": "Lahore",
-      "mainImage": "images/persons/downloaded/bhai_shahbaaz_singh.jpg",
-      "thumbnailImage": "images/persons/downloaded/bhai_shahbaaz_singh.jpg",
       "articlePath": "persons/bhai_shahbaaz_singh.json",
       "hasFullArticle": false,
       "displayEmoji": "🙏",
@@ -1416,8 +1372,6 @@
       "birthYear": null,
       "deathYear": 1705,
       "mainPlace": "Chamkaur Sahib",
-      "mainImage": "images/events/all_shaheeds_at_chamkaur_martyrdom.webp",
-      "thumbnailImage": "images/events/all_shaheeds_at_chamkaur_martyrdom.webp",
       "articlePath": "persons/bhai_sangat_singh.json",
       "hasFullArticle": false,
       "displayEmoji": "🙏",
@@ -1515,12 +1469,7 @@
       "shortBio": "Pioneer of the Bhakti movement who advocated for devotion regardless of caste.",
       "articlePath": "persons/bhagat_ramanand.json",
       "hasFullArticle": true,
-      "priority": 70,
-      "mainImage": "images/persons/downloaded/bhagat_ramanand.jpg",
-      "thumbnailImage": "images/persons/downloaded/bhagat_ramanand.jpg",
-      "media": {
-        "limg": "persons/bhagats/bhagats_collective.jpg"
-      }
+      "priority": 70
     },
     {
       "id": "BHAGAT_JAIDEV",
@@ -1531,12 +1480,7 @@
       "shortBio": "Renowned poet from Bengal, author of Gita Govinda.",
       "articlePath": "persons/bhagat_jaidev.json",
       "hasFullArticle": true,
-      "priority": 70,
-      "mainImage": "images/persons/downloaded/bhagat_jaidev.jpg",
-      "thumbnailImage": "images/persons/downloaded/bhagat_jaidev.jpg",
-      "media": {
-        "limg": "persons/bhagats/bhagats_collective.jpg"
-      }
+      "priority": 70
     },
     {
       "id": "BHAGAT_TRILOCHAN",
@@ -1547,12 +1491,7 @@
       "shortBio": "Saint from Maharashtra who emphasized internal purity.",
       "articlePath": "persons/bhagat_trilochan.json",
       "hasFullArticle": true,
-      "priority": 70,
-      "mainImage": "images/persons/bhagats/bhagats_collective.jpg",
-      "thumbnailImage": "images/persons/bhagats/bhagats_collective.jpg",
-      "media": {
-        "limg": "persons/bhagats/bhagats_collective.jpg"
-      }
+      "priority": 70
     },
     {
       "id": "BHAGAT_DHANNA",
@@ -1563,14 +1502,7 @@
       "shortBio": "Farmer-saint from Rajasthan who realized God through pure faith.",
       "articlePath": "persons/bhagat_dhanna.json",
       "hasFullArticle": true,
-      "priority": 70,
-      "media": {
-        "img": "https://www.sikhiwiki.org/images/4/4d/Bhagat_Dhanna_Ji.jpg",
-        "limg": "persons/bhagats/bhagat_dhanna.jpg",
-        "wiki": "https://www.sikhiwiki.org/index.php/Bhagat_Dhanna_Ji"
-      },
-      "mainImage": "images/persons/downloaded/bhagat_dhanna.jpg",
-      "thumbnailImage": "images/persons/downloaded/bhagat_dhanna.jpg"
+      "priority": 70
     },
     {
       "id": "BHAGAT_SAIN",
@@ -1581,12 +1513,7 @@
       "shortBio": "Devoted saint who represented the dignity of honest labor.",
       "articlePath": "persons/bhagat_sain.json",
       "hasFullArticle": true,
-      "priority": 70,
-      "mainImage": "images/persons/bhagats/bhagats_collective.jpg",
-      "thumbnailImage": "images/persons/bhagats/bhagats_collective.jpg",
-      "media": {
-        "limg": "persons/bhagats/bhagats_collective.jpg"
-      }
+      "priority": 70
     },
     {
       "id": "BHAGAT_PIPA",
@@ -1597,12 +1524,7 @@
       "shortBio": "Royal figure who renounced his throne for spiritual devotion.",
       "articlePath": "persons/bhagat_pipa.json",
       "hasFullArticle": true,
-      "priority": 70,
-      "mainImage": "images/persons/downloaded/bhagat_pipa.jpg",
-      "thumbnailImage": "images/persons/downloaded/bhagat_pipa.jpg",
-      "media": {
-        "limg": "persons/bhagats/bhagats_collective.jpg"
-      }
+      "priority": 70
     },
     {
       "id": "BHAGAT_BHIKHAN",
@@ -1613,12 +1535,7 @@
       "shortBio": "Sufi saint whose hymns reflect on the supreme value of the Divine Name.",
       "articlePath": "persons/bhagat_bhikhan.json",
       "hasFullArticle": true,
-      "priority": 70,
-      "mainImage": "images/persons/bhagats/bhagats_collective.jpg",
-      "thumbnailImage": "images/persons/bhagats/bhagats_collective.jpg",
-      "media": {
-        "limg": "persons/bhagats/bhagats_collective.jpg"
-      }
+      "priority": 70
     },
     {
       "id": "BHAGAT_SADHNA",
@@ -1629,12 +1546,7 @@
       "shortBio": "Devout saint who demonstrated that no profession is a barrier to spiritual realization.",
       "articlePath": "persons/bhagat_sadhna.json",
       "hasFullArticle": true,
-      "priority": 70,
-      "mainImage": "images/persons/downloaded/bhagat_sadhna.jpg",
-      "thumbnailImage": "images/persons/downloaded/bhagat_sadhna.jpg",
-      "media": {
-        "limg": "persons/bhagats/bhagats_collective.jpg"
-      }
+      "priority": 70
     },
     {
       "id": "BHAGAT_PARMANAND",
@@ -1645,12 +1557,7 @@
       "shortBio": "Dedicated devotee whose compositions reflect deep surrender to the Almighty.",
       "articlePath": "persons/bhagat_parmanand.json",
       "hasFullArticle": true,
-      "priority": 70,
-      "mainImage": "images/persons/bhagats/bhagats_collective.jpg",
-      "thumbnailImage": "images/persons/bhagats/bhagats_collective.jpg",
-      "media": {
-        "limg": "persons/bhagats/bhagats_collective.jpg"
-      }
+      "priority": 70
     },
     {
       "id": "BHAGAT_SURDAS",
@@ -1661,12 +1568,7 @@
       "shortBio": "Famous saint and poet immersed in the Divine Name.",
       "articlePath": "persons/bhagat_surdas.json",
       "hasFullArticle": true,
-      "priority": 70,
-      "mainImage": "images/persons/bhagats/bhagats_collective.jpg",
-      "thumbnailImage": "images/persons/bhagats/bhagats_collective.jpg",
-      "media": {
-        "limg": "persons/bhagats/bhagats_collective.jpg"
-      }
+      "priority": 70
     },
     {
       "id": "BHAGAT_BENI",
@@ -1677,12 +1579,7 @@
       "shortBio": "Mystical saint whose deep spiritual insights are preserved in the Sikh scripture.",
       "articlePath": "persons/bhagat_beni.json",
       "hasFullArticle": true,
-      "priority": 70,
-      "mainImage": "images/persons/bhagats/bhagats_collective.jpg",
-      "thumbnailImage": "images/persons/bhagats/bhagats_collective.jpg",
-      "media": {
-        "limg": "persons/bhagats/bhagats_collective.jpg"
-      }
+      "priority": 70
     },
     {
       "id": "BHATT_KAL",

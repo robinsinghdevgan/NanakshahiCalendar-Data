@@ -1,6 +1,6 @@
 {
-    "version":  8,
-    "description":  "Optimized image assets for WebP and resized to reduce app size.",
+    "version":  9,
+    "description":  "Removed broken, generic placeholder and unrelated person images.",
     "files":  [
                   {
                       "name":  "events_data.json",
@@ -10,7 +10,7 @@
                   {
                       "name":  "persons_data.json",
                       "url":  "https://robinsinghdevgan.github.io/NanakshahiCalendar-Data/persons_data.json",
-                      "version":  5
+                      "version":  6
                   }
               ]
 }

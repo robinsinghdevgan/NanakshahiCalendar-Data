@@ -1582,7 +1582,12 @@
       "limg": "events/sampooranta_granth_sahib.webp",
       "imgs": [
         "events/sampooranta_granth_sahib.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "🙏 ਸੰਪੂਰਨਤਾ ਦਿਵਸ ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+        "roman": "🙏 Sampooranta Divas of Sri Guru Granth Sahib Ji",
+        "hindi": "🙏 संपूर्णता दिवस श्री गुरु ग्रंथ साहिब जी"
+      }
     },
     {
       "id": "GURU_GRANTH_SAHIB_BIRTH",
@@ -1616,7 +1621,12 @@
       "imgs": [
         "events/guru_granth_sahib_birth.webp"
       ],
-      "limg": "events/guru_granth_sahib_birth.webp"
+      "limg": "events/guru_granth_sahib_birth.webp",
+      "title": {
+        "gurmukhi": "🙏 ਪ੍ਰਕਾਸ਼ ਪੁਰਬ ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+        "roman": "🙏 Prakash Purab of Sri Guru Granth Sahib Ji",
+        "hindi": "🙏 प्रकाश पुरब श्री गुरु ग्रंथ साहिब जी"
+      }
     },
     {
       "id": "GURU_ARJAN_DEV_THRONE",
@@ -2143,7 +2153,12 @@
       "imgs": [
         "events/guru_granth_sahib_throne.webp"
       ],
-      "limg": "events/guru_granth_sahib_throne.webp"
+      "limg": "events/guru_granth_sahib_throne.webp",
+      "title": {
+        "gurmukhi": "☀️ ਗੁਰਗੱਦੀ ਦਿਵਸ ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+        "roman": "☀️ Gurgaddi Diwas of Sri Guru Granth Sahib Ji",
+        "hindi": "☀️ गुरगद्दी दिवस श्री गुरु ग्रंथ साहिब जी"
+      }
     },
     {
       "id": "GURU_GOBIND_SINGH_JOTI_JOT",
