@@ -212,7 +212,7 @@
       "cat": 5,
       "title": {
         "gurmukhi": "🙏 ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਅੰਗਦ ਦੇਵ ਜੀ",
-        "roman": "🙏 Jyoti-Jyot of Guru Angad Dev Ji",
+        "roman": "🙏 Jyoti-Jyot (Passing Away) of Guru Angad Dev Ji",
         "hindi": "🙏 जोती-जोति गुरु अंगद देव जी"
       },
       "dates": {
@@ -249,7 +249,7 @@
       "cat": 5,
       "title": {
         "gurmukhi": "🙏 ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਹਰਿਗੋਬਿੰਦ ਜੀ",
-        "roman": "🙏 Jyoti-Jyot of Guru Hargobind Ji",
+        "roman": "🙏 Jyoti-Jyot (Passing Away) of Guru Hargobind Ji",
         "hindi": "🙏 जोती-जोति गुरु हरगोबिंद जी"
       },
       "dates": {
@@ -411,7 +411,7 @@
       "cat": 5,
       "title": {
         "gurmukhi": "🙏 ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਹਰਿ ਕ੍ਰਿਸ਼ਨ ਜੀ",
-        "roman": "🙏 Jyoti-Jyot of Guru Har Krishan Ji",
+        "roman": "🙏 Jyoti-Jyot (Passing Away) of Guru Har Krishan Ji",
         "hindi": "🙏 जोती-जोति गुरु हरि किशन जी"
       },
       "dates": {
@@ -1624,7 +1624,7 @@
       "limg": "events/guru_granth_sahib_birth.webp",
       "title": {
         "gurmukhi": "🙏 ਪ੍ਰਕਾਸ਼ ਪੁਰਬ ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
-        "roman": "🙏 Prakash Purab of Sri Guru Granth Sahib Ji",
+        "roman": "🙏 Prakash Purab (Birth Anniversary) of Sri Guru Granth Sahib Ji",
         "hindi": "🙏 प्रकाश पुरब श्री गुरु ग्रंथ साहिब जी"
       }
     },
@@ -1668,7 +1668,7 @@
       "cat": 5,
       "title": {
         "gurmukhi": "🙏 ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਰਾਮ ਦਾਸ ਜੀ",
-        "roman": "🙏 Jyoti-Jyot of Guru Ram Das Ji",
+        "roman": "🙏 Jyoti-Jyot (Passing Away) of Guru Ram Das Ji",
         "hindi": "🙏 जोती-जोति गुरु राम दास जी"
       },
       "dates": {
@@ -1705,7 +1705,7 @@
       "cat": 5,
       "title": {
         "gurmukhi": "🙏 ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਅਮਰ ਦਾਸ ਜੀ",
-        "roman": "🙏 Jyoti-Jyot of Guru Amar Das Ji",
+        "roman": "🙏 Jyoti-Jyot (Passing Away) of Guru Amar Das Ji",
         "hindi": "🙏 जोती-जोति गुरु अमर दास जी"
       },
       "dates": {
@@ -2055,7 +2055,7 @@
       "cat": 5,
       "title": {
         "gurmukhi": "🙏 ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਹਰਿ ਰਾਇ ਜੀ",
-        "roman": "🙏 Jyoti-Jyot of Guru Har Rai Ji",
+        "roman": "🙏 Jyoti-Jyot (Passing Away) of Guru Har Rai Ji",
         "hindi": "🙏 जोती-जोति गुरु हरि राय जी"
       },
       "dates": {
@@ -2156,7 +2156,7 @@
       "limg": "events/guru_granth_sahib_throne.webp",
       "title": {
         "gurmukhi": "☀️ ਗੁਰਗੱਦੀ ਦਿਵਸ ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
-        "roman": "☀️ Gurgaddi Diwas of Sri Guru Granth Sahib Ji",
+        "roman": "☀️ Gurgaddi Diwas (Enthronement) of Sri Guru Granth Sahib Ji",
         "hindi": "☀️ गुरगद्दी दिवस श्री गुरु ग्रंथ साहिब जी"
       }
     },
@@ -2166,7 +2166,7 @@
       "cat": 5,
       "title": {
         "gurmukhi": "🙏 ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ",
-        "roman": "🙏 Jyoti-Jyot of Guru Gobind Singh Ji",
+        "roman": "🙏 Jyoti-Jyot (Passing Away) of Guru Gobind Singh Ji",
         "hindi": "🙏 जोती-जोति गुरु गोबिंद सिंह जी"
       },
       "dates": {
