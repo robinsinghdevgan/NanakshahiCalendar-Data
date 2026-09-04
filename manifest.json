@@ -1,16 +1,16 @@
 {
-    "version": 7,
-    "description": "Optimized image assets for WebP and resized to reduce app size.",
-    "files": [
-        {
-            "name": "events_data.json",
-            "url": "https://robinsinghdevgan.github.io/NanakshahiCalendar-Data/events_data.json",
-            "version": 4
-        },
-        {
-            "name": "persons_data.json",
-            "url": "https://robinsinghdevgan.github.io/NanakshahiCalendar-Data/persons_data.json",
-            "version": 5
-        }
-    ]
+    "version":  8,
+    "description":  "Optimized image assets for WebP and resized to reduce app size.",
+    "files":  [
+                  {
+                      "name":  "events_data.json",
+                      "url":  "https://robinsinghdevgan.github.io/NanakshahiCalendar-Data/events_data.json",
+                      "version":  4
+                  },
+                  {
+                      "name":  "persons_data.json",
+                      "url":  "https://robinsinghdevgan.github.io/NanakshahiCalendar-Data/persons_data.json",
+                      "version":  5
+                  }
+              ]
 }
