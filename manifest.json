@@ -1,6 +1,6 @@
 {
-    "version":  10,
-    "description":  "Updated 12 Nanakshahi month seasons imagery and rich descriptions aligned with Baarah-Mah by Guru Nanak Dev Ji and Guru Arjan Dev Ji.",
+    "version":  11,
+    "description":  "Updated authentic historical portraits for Sahibzada Zorawar Singh Ji and Sahibzada Fateh Singh Ji.",
     "files":  [
                   {
                       "name":  "events_data.json",
@@ -10,7 +10,7 @@
                   {
                       "name":  "persons_data.json",
                       "url":  "https://robinsinghdevgan.github.io/NanakshahiCalendar-Data/persons_data.json",
-                      "version":  6
+                      "version":  7
                   }
               ]
 }

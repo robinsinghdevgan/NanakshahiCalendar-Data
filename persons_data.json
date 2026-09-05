@@ -429,15 +429,15 @@
       "deathYear": 1705,
       "birthPlace": "Anandpur Sahib",
       "mainPlace": "Sirhind",
-      "mainImage": "images/persons/sahibzadas/sahibzada_zorawar_singh.webp",
-      "thumbnailImage": "images/persons/sahibzadas/sahibzada_zorawar_singh.webp",
+      "mainImage": "images/persons/sahibzadas/sahibzada_zorawar_singh_v2.webp",
+      "thumbnailImage": "images/persons/sahibzadas/sahibzada_zorawar_singh_v2.webp",
       "articlePath": "persons/sahibzada_zorawar_singh.json",
       "hasFullArticle": true,
       "displayEmoji": "🙏",
       "priority": 90,
       "media": {
         "img": "https://www.sikhiwiki.org/images/8/8a/Mata_Gujri_Kaur_Ji_in_prison_with_the_Sahibzaadey.jpg",
-        "limg": "persons/sahibzadas/sahibzada_zorawar_singh.webp",
+        "limg": "persons/sahibzadas/sahibzada_zorawar_singh_v2.webp",
         "wiki": "https://www.sikhiwiki.org/index.php/Sahibzada_Zorawar_Singh"
       }
     },
@@ -452,15 +452,15 @@
       "deathYear": 1705,
       "birthPlace": "Anandpur Sahib",
       "mainPlace": "Sirhind",
-      "mainImage": "images/persons/sahibzadas/sahibzada_fateh_singh.webp",
-      "thumbnailImage": "images/persons/sahibzadas/sahibzada_fateh_singh.webp",
+      "mainImage": "images/persons/sahibzadas/sahibzada_fateh_singh_v2.webp",
+      "thumbnailImage": "images/persons/sahibzadas/sahibzada_fateh_singh_v2.webp",
       "articlePath": "persons/sahibzada_fateh_singh.json",
       "hasFullArticle": true,
       "displayEmoji": "🙏",
       "priority": 90,
       "media": {
         "img": "https://www.sikhiwiki.org/images/f/f6/Sahibzada-young.jpg",
-        "limg": "persons/sahibzadas/sahibzada_fateh_singh.webp",
+        "limg": "persons/sahibzadas/sahibzada_fateh_singh_v2.webp",
         "wiki": "https://www.sikhiwiki.org/index.php/Sahibzada_Fateh_Singh"
       }
     },
