@@ -1,5 +1,5 @@
 {
-  "v": 22,
+  "v": 23,
   "events": [
     {
       "id": "NEW_YEAR_NANAKSHAHI",
@@ -30,7 +30,12 @@
       "limg": "events/happy_new_nanakshahi_year.webp",
       "imgs": [
         "events/happy_new_nanakshahi_year.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਨਵੇਂ ਸਾਲ ਦਾ ਆਗਾਜ਼ (ਨਾਨਕਸ਼ਾਹੀ)",
+        "roman": "Nanakshahi New Year (Pehla Chet)",
+        "hindi": "नानकशाही नव वर्ष (पहला चेत)"
+      }
     },
     {
       "id": "HOLA_MAHALLA",
@@ -55,7 +60,12 @@
       "imgs": [
         "events/hola_mahalla.webp"
       ],
-      "limg": "events/hola_mahalla.webp"
+      "limg": "events/hola_mahalla.webp",
+      "title": {
+        "gurmukhi": "ਹੋਲਾ ਮਹੱਲਾ (ਸ੍ਰੀ ਅਨੰਦਪੁਰ ਸਾਹਿਬ)",
+        "roman": "Hola Mahalla (Anandpur Sahib)",
+        "hindi": "होला महल्ला (श्री आनंदपुर साहिब)"
+      }
     },
     {
       "id": "HIST_HOLA_MAHALLA_PHAGAN_557",
@@ -76,7 +86,12 @@
       "limg": "events/hola_mahalla.webp",
       "imgs": [
         "events/hola_mahalla.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਹੋਲਾ ਮਹੱਲਾ",
+        "roman": "Hola Mahalla",
+        "hindi": "होला महल्ला"
+      }
     },
     {
       "id": "SHAHIDI_BABA_PHULA_SINGH",
@@ -103,7 +118,12 @@
       "limg": "events/event_shaheedi_jathedaar_akali_baba_phula_singh_ji.webp",
       "imgs": [
         "events/event_shaheedi_jathedaar_akali_baba_phula_singh_ji.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਦਿਹਾੜਾ ਅਕਾਲੀ ਬਾਬਾ ਫੂਲਾ ਸਿੰਘ ਜੀ",
+        "roman": "Shaheedi Akali Baba Phula Singh Ji",
+        "hindi": "शहीदी दिवस अकाली बाबा फूला सिंह जी"
+      }
     },
     {
       "id": "HIST_DELHI_FATEH_BAGHEL_SINGH",
@@ -134,7 +154,12 @@
       "limg": "events/delhi_fateh_bhai_baghel_singh.webp",
       "imgs": [
         "events/delhi_fateh_bhai_baghel_singh.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਦਿੱਲੀ ਫ਼ਤਹਿ ਦਿਵਸ (ਸਰਦਾਰ ਬਘੇਲ ਸਿੰਘ)",
+        "roman": "Delhi Fateh Diwas (Sardar Baghel Singh)",
+        "hindi": "दिल्ली फतेह दिवस (सरदार बघेल सिंह)"
+      }
     },
     {
       "id": "GURU_HAR_RAI_THRONE",
@@ -169,7 +194,12 @@
         "events/guru_har_rai_throne.webp",
         "events/guru_har_rai_merged.webp"
       ],
-      "limg": "events/guru_har_rai_throne.webp"
+      "limg": "events/guru_har_rai_throne.webp",
+      "title": {
+        "gurmukhi": "ਗੁਰਗੱਦੀ ਦਿਵਸ ਗੁਰੂ ਹਰਿ ਰਾਇ ਜੀ",
+        "roman": "Gurgaddi Diwas Guru Har Rai Ji",
+        "hindi": "गुरगद्दी दिवस गुरु हरि राय जी"
+      }
     },
     {
       "id": "GURU_AMAR_DAS_THRONE",
@@ -204,16 +234,21 @@
         "events/guru_amar_das_throne.webp",
         "events/guru_amar_das_merged.webp"
       ],
-      "limg": "events/guru_amar_das_throne.webp"
+      "limg": "events/guru_amar_das_throne.webp",
+      "title": {
+        "gurmukhi": "ਗੁਰਗੱਦੀ ਦਿਵਸ ਗੁਰੂ ਅਮਰ ਦਾਸ ਜੀ",
+        "roman": "Gurgaddi Diwas Guru Amar Das Ji",
+        "hindi": "गुरगद्दी दिवस गुरु अमर दास जी"
+      }
     },
     {
       "id": "GURU_ANGAD_DEV_JOTI_JOT",
       "type": 5,
       "cat": 5,
       "title": {
-        "gurmukhi": "🙏 ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਅੰਗਦ ਦੇਵ ਜੀ",
-        "roman": "🙏 Jyoti-Jyot (Passing Away) of Guru Angad Dev Ji",
-        "hindi": "🙏 जोती-जोति गुरु अंगद देव जी"
+        "gurmukhi": "ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਅੰਗਦ ਦੇਵ ਜੀ",
+        "roman": "Jyoti-Jyot (Passing Away) of Guru Angad Dev Ji",
+        "hindi": "जोती-जोति गुरु अंगद देव जी"
       },
       "dates": {
         "mool": {
@@ -248,9 +283,9 @@
       "type": 5,
       "cat": 5,
       "title": {
-        "gurmukhi": "🙏 ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਹਰਿਗੋਬਿੰਦ ਜੀ",
-        "roman": "🙏 Jyoti-Jyot (Passing Away) of Guru Hargobind Ji",
-        "hindi": "🙏 जोती-जोति गुरु हरगोबिंद जी"
+        "gurmukhi": "ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਹਰਿਗੋਬਿੰਦ ਜੀ",
+        "roman": "Jyoti-Jyot (Passing Away) of Guru Hargobind Ji",
+        "hindi": "जोती-जोति गुरु हरगोबिंद जी"
       },
       "dates": {
         "mool": {
@@ -305,7 +340,12 @@
       "limg": "events/shaheed_bhagat_singh.webp",
       "imgs": [
         "events/shaheed_bhagat_singh.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਦਿਵਸ ਸ਼ਹੀਦ ਭਗਤ ਸਿੰਘ ਜੀ",
+        "roman": "Shaheedi Shaheed Bhagat Singh",
+        "hindi": "शहीदी दिवस शहीद भगत सिंह जी"
+      }
     },
     {
       "id": "SHAHIDI_SUBEG_SHAHBAZ_SINGH",
@@ -335,7 +375,12 @@
       "limg": "events/bhai_subeg_singh_martyrdom.webp",
       "imgs": [
         "events/bhai_subeg_singh_martyrdom.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਭਾਈ ਸੁਬੇਗ ਸਿੰਘ ਤੇ ਭਾਈ ਸ਼ਾਹਬਾਜ਼ ਸਿੰਘ",
+        "roman": "Shaheedi Bhai Subeg Singh & Shahbaz Singh",
+        "hindi": "शहीदी भाई सुबेग सिंह व शाहबाज़ सिंह"
+      }
     },
     {
       "id": "SAHIBZADA_JUJHHAR_SINGH_BIRTH",
@@ -369,7 +414,12 @@
       "imgs": [
         "events/sahibzada_jujhhar_singh_birth.webp"
       ],
-      "limg": "events/sahibzada_jujhhar_singh_birth.webp"
+      "limg": "events/sahibzada_jujhhar_singh_birth.webp",
+      "title": {
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਦਿਹਾੜਾ ਸਾਹਿਬਜ਼ਾਦਾ ਜੁਝਾਰ ਸਿੰਘ ਜੀ",
+        "roman": "Prakash Diwas Sahibzada Jujhhar Singh Ji",
+        "hindi": "जन्म दिवस साहिबजादा जुझार सिंह जी"
+      }
     },
     {
       "id": "GURU_TEGH_BAHADUR_THRONE",
@@ -403,16 +453,21 @@
       "imgs": [
         "events/guru_tegh_bahadur_throne.webp"
       ],
-      "limg": "events/guru_tegh_bahadur_throne.webp"
+      "limg": "events/guru_tegh_bahadur_throne.webp",
+      "title": {
+        "gurmukhi": "ਗੁਰਗੱਦੀ ਦਿਵਸ ਗੁਰੂ ਤੇਗ ਬਹਾਦਰ ਜੀ",
+        "roman": "Gurgaddi Diwas Guru Tegh Bahadur Ji",
+        "hindi": "गुरगद्दी दिवस गुरु तेज बहादुर जी"
+      }
     },
     {
       "id": "GURU_HAR_KRISHAN_JOTI_JOT",
       "type": 5,
       "cat": 5,
       "title": {
-        "gurmukhi": "🙏 ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਹਰਿ ਕ੍ਰਿਸ਼ਨ ਜੀ",
-        "roman": "🙏 Jyoti-Jyot (Passing Away) of Guru Har Krishan Ji",
-        "hindi": "🙏 जोती-जोति गुरु हरि किशन जी"
+        "gurmukhi": "ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਹਰਿ ਕ੍ਰਿਸ਼ਨ ਜੀ",
+        "roman": "Jyoti-Jyot (Passing Away) of Guru Har Krishan Ji",
+        "hindi": "जोती-जोति गुरु हरि किशन जी"
       },
       "dates": {
         "mool": {
@@ -474,7 +529,12 @@
       "imgs": [
         "events/guru_tegh_bahadur_birth.webp"
       ],
-      "limg": "events/guru_tegh_bahadur_birth.webp"
+      "limg": "events/guru_tegh_bahadur_birth.webp",
+      "title": {
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਗੁਰਪੁਰਬ ਗੁਰੂ ਤੇਗ ਬਹਾਦਰ ਜੀ",
+        "roman": "Prakash Purab Guru Tegh Bahadur Ji",
+        "hindi": "प्रकाश पुरब गुरु तेज बहादुर जी"
+      }
     },
     {
       "id": "GURU_ARJAN_DEV_BIRTH",
@@ -508,7 +568,12 @@
       "imgs": [
         "events/guru_arjan_dev_birth.webp"
       ],
-      "limg": "events/guru_arjan_dev_birth.webp"
+      "limg": "events/guru_arjan_dev_birth.webp",
+      "title": {
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਗੁਰਪੁਰਬ ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+        "roman": "Prakash Purab Guru Arjan Dev Ji",
+        "hindi": "प्रकाश पुरब गुरु अर्जन देव जी"
+      }
     },
     {
       "id": "SIKH_DASTAR_DAY",
@@ -535,7 +600,12 @@
       "limg": "events/sikh_dastar_day.webp",
       "imgs": [
         "events/sikh_dastar_day.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਅੰਤਰਰਾਸ਼ਟਰੀ ਦਸਤਾਰ ਦਿਵਸ",
+        "roman": "International Sikh Dastar (Turban) Day",
+        "hindi": "अंतर्राष्ट्रीय दस्तार दिवस"
+      }
     },
     {
       "id": "KHALSA_SAJNA_DIVAS",
@@ -567,7 +637,12 @@
         "events/khalsa_srijna_diwas.webp",
         "events/khanda.webp"
       ],
-      "limg": "events/khalsa_srijna_diwas.webp"
+      "limg": "events/khalsa_srijna_diwas.webp",
+      "title": {
+        "gurmukhi": "ਖ਼ਾਲਸਾ ਸਾਜਨਾ ਦਿਵਸ (ਵਿਸਾਖੀ)",
+        "roman": "Khalsa Sajna Divas (Vaisakhi)",
+        "hindi": "खालसा साजना दिवस (वैसाखी)"
+      }
     },
     {
       "id": "GURU_NANAK_DEV_BIRTH",
@@ -603,7 +678,12 @@
         "events/guru_nanak_dev_merged.webp",
         "events/guru_nanak_dev_birth.webp"
       ],
-      "limg": "events/guru_nanak_dev_merged.webp"
+      "limg": "events/guru_nanak_dev_merged.webp",
+      "title": {
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਗੁਰਪੁਰਬ ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+        "roman": "Prakash Purab Guru Nanak Dev Ji",
+        "hindi": "प्रकाश पुरब गुरु नानक देव जी"
+      }
     },
     {
       "id": "GURU_ANGAD_DEV_BIRTH",
@@ -638,7 +718,12 @@
         "events/guru_angad_dev_birth.webp",
         "events/guru_angad_dev_merged.webp"
       ],
-      "limg": "events/guru_angad_dev_birth.webp"
+      "limg": "events/guru_angad_dev_birth.webp",
+      "title": {
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਗੁਰਪੁਰਬ ਗੁਰੂ ਅੰਗਦ ਦੇਵ ਜੀ",
+        "roman": "Prakash Purab Guru Angad Dev Ji",
+        "hindi": "प्रकाश पुरब गुरु अंगद देव जी"
+      }
     },
     {
       "id": "BHAGAT_DHANNA_BIRTH",
@@ -669,7 +754,12 @@
         "events/bhagat_dhanna_birth.webp",
         "events/bhagat_dhanna_birth.webp"
       ],
-      "limg": "events/bhagat_dhanna_birth.webp"
+      "limg": "events/bhagat_dhanna_birth.webp",
+      "title": {
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਦਿਹਾੜਾ ਭਗਤ ਧੰਨਾ ਜੀ",
+        "roman": "Prakash Diwas Bhagat Dhanna Ji",
+        "hindi": "जन्म दिवस भगत धन्ना जी"
+      }
     },
     {
       "id": "BIRTH_BABA_FARID",
@@ -687,7 +777,12 @@
       "limg": "persons/bhagats/bhagat_farid.webp",
       "imgs": [
         "persons/bhagats/bhagat_farid.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਦਿਹਾੜਾ ਬਾਬਾ ਫਰੀਦ ਜੀ",
+        "roman": "Prakash Diwas Bhagat Farid Ji",
+        "hindi": "जन्म दिवस बाबा फरीद जी"
+      }
     },
     {
       "id": "GURU_AMAR_DAS_BIRTH",
@@ -722,7 +817,12 @@
         "events/guru_amar_das_birth.webp",
         "events/guru_amar_das_merged.webp"
       ],
-      "limg": "events/guru_amar_das_birth.webp"
+      "limg": "events/guru_amar_das_birth.webp",
+      "title": {
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਗੁਰਪੁਰਬ ਗੁਰੂ ਅਮਰ ਦਾਸ ਜੀ",
+        "roman": "Prakash Purab Guru Amar Das Ji",
+        "hindi": "प्रकाश पुरब गुरु अमर दास जी"
+      }
     },
     {
       "id": "JORMELA_MUKTSAR_SHAHIDI",
@@ -749,7 +849,12 @@
       "limg": "persons/chaali_mukte/chaali_mukte.webp",
       "imgs": [
         "persons/chaali_mukte/chaali_mukte.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਜੋੜ ਮੇਲਾ ਮੁਕਤਸਰ ਸਾਹਿਬ (ਸ਼ਹੀਦੀ)",
+        "roman": "Jor Mela Muktsar Sahib",
+        "hindi": "जोड़ मेला मुक्तसर साहिब"
+      }
     },
     {
       "id": "BIRTH_JASSA_SINGH_RAMGARHIA",
@@ -776,7 +881,12 @@
       "imgs": [
         "events/jassa_singh_ramgarhia_birth.webp"
       ],
-      "limg": "events/jassa_singh_ramgarhia_birth.webp"
+      "limg": "events/jassa_singh_ramgarhia_birth.webp",
+      "title": {
+        "gurmukhi": "ਜਨਮ ਦਿਹਾੜਾ ਸਰਦਾਰ ਜੱਸਾ ਸਿੰਘ ਰਾਮਗੜ੍ਹੀਆ",
+        "roman": "Prakash Diwas Sardar Jassa Singh Ramgarhia",
+        "hindi": "जन्म दिवस सरदार जस्सा सिंह रामगढ़िया"
+      }
     },
     {
       "id": "HIST_SIRHIND_FATEH_BANDA",
@@ -803,7 +913,12 @@
       "limg": "events/event_conquest_of_sirhind_by_baba_banda_singh_bahadur_fa.webp",
       "imgs": [
         "events/event_conquest_of_sirhind_by_baba_banda_singh_bahadur_fa.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸਰਹਿੰਦ ਫ਼ਤਹਿ ਦਿਵਸ (ਬਾਬਾ ਬੰਦਾ ਸਿੰਘ ਬਹਾਦਰ)",
+        "roman": "Sirhind Fateh Diwas (Baba Banda Singh Bahadur)",
+        "hindi": "सरहिंद फतेह दिवस (बाबा बंदा सिंह बहादुर)"
+      }
     },
     {
       "id": "GURU_HARGOBIND_BIRTH",
@@ -838,7 +953,12 @@
         "events/guru_hargobind_birth.webp",
         "events/guru_hargobind_merged.webp"
       ],
-      "limg": "events/guru_hargobind_birth.webp"
+      "limg": "events/guru_hargobind_birth.webp",
+      "title": {
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਗੁਰਪੁਰਬ ਗੁਰੂ ਹਰਿਗੋਬਿੰਦ ਜੀ",
+        "roman": "Prakash Purab Guru Hargobind Ji",
+        "hindi": "प्रकाश पुरब गुरु हरिगोबिंद जी"
+      }
     },
     {
       "id": "CHHOTA_GHALLUGHARA",
@@ -869,7 +989,12 @@
       "imgs": [
         "events/chhota_ghallughara.webp"
       ],
-      "limg": "events/chhota_ghallughara.webp"
+      "limg": "events/chhota_ghallughara.webp",
+      "title": {
+        "gurmukhi": "ਛੋਟਾ ਘੱਲੂਘਾਰਾ (੧੭੪੬ ਈ:)",
+        "roman": "Chhota Ghallughara (1746 CE)",
+        "hindi": "छोटा घल्लूघारा (1746 ई.)"
+      }
     },
     {
       "id": "BIRTH_JASSA_SINGH_AHLUWALIA",
@@ -897,7 +1022,12 @@
         "events/jassa_singh_ahluwalia_birth.webp",
         "events/jassa_singh_ahluwalia_merged.webp"
       ],
-      "limg": "events/jassa_singh_ahluwalia_birth.webp"
+      "limg": "events/jassa_singh_ahluwalia_birth.webp",
+      "title": {
+        "gurmukhi": "ਜਨਮ ਦਿਹਾੜਾ ਸੁਲਤਾਨ-ਉਲ-ਕੌਮ ਸਰਦਾਰ ਜੱਸਾ ਸਿੰਘ ਆਹਲੂਵਾਲੀਆ",
+        "roman": "Prakash Diwas Sardar Jassa Singh Ahluwalia",
+        "hindi": "जन्म दिवस सरदार जस्सा सिंह आहलूवालिया"
+      }
     },
     {
       "id": "GURU_HARGOBIND_THRONE",
@@ -932,7 +1062,12 @@
         "events/guru_hargobind_throne.webp",
         "events/guru_hargobind_merged.webp"
       ],
-      "limg": "events/guru_hargobind_throne.webp"
+      "limg": "events/guru_hargobind_throne.webp",
+      "title": {
+        "gurmukhi": "ਗੁਰਗੱਦੀ ਦਿਵਸ ਗੁਰੂ ਹਰਿਗੋਬਿੰਦ ਜੀ",
+        "roman": "Gurgaddi Diwas Guru Hargobind Ji",
+        "hindi": "गुरगद्दी दिवस गुरु हरिगोबिंद जी"
+      }
     },
     {
       "id": "SHAHIDI_SAKA_PAONTA_SAHIB",
@@ -959,7 +1094,12 @@
       "limg": "events/saka_paonta_sahib.webp",
       "imgs": [
         "events/saka_paonta_sahib.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਸਾਕਾ ਪਾਉਂਟਾ ਸਾਹਿਬ",
+        "roman": "Shaheedi Saka Paonta Sahib",
+        "hindi": "शहीदी साका पांवटा साहिब"
+      }
     },
     {
       "id": "GURU_ARJAN_DEV_MARTYRDOM",
@@ -993,7 +1133,12 @@
       "imgs": [
         "events/guru_arjan_dev_martyrdom.webp"
       ],
-      "limg": "events/guru_arjan_dev_martyrdom.webp"
+      "limg": "events/guru_arjan_dev_martyrdom.webp",
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਦਿਹਾੜਾ ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+        "roman": "Shaheedi Diwas Guru Arjan Dev Ji",
+        "hindi": "शहीदी दिवस गुरु अर्जन देव जी"
+      }
     },
     {
       "id": "BIRTH_SANT_JARNAIL_BHINDRANWALE",
@@ -1020,7 +1165,12 @@
       "limg": "events/sant_jarnail_singh_bhindranwale.webp",
       "imgs": [
         "events/sant_jarnail_singh_bhindranwale.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਜਨਮ ਦਿਹਾੜਾ ਸੰਤ ਜਰਨੈਲ ਸਿੰਘ ਜੀ ਖ਼ਾਲਸਾ ਭਿੰਡਰਾਂਵਾਲੇ",
+        "roman": "Birth of Sant Jarnail Singh Bhindranwale",
+        "hindi": "जन्म दिवस संत जरनैल सिंह भिंडरावाले"
+      }
     },
     {
       "id": "GHALLUGHARA_1984",
@@ -1051,7 +1201,12 @@
       "imgs": [
         "events/event_ghallughara_sri_akal_takht_sahib_1984.webp"
       ],
-      "limg": "events/event_ghallughara_sri_akal_takht_sahib_1984.webp"
+      "limg": "events/event_ghallughara_sri_akal_takht_sahib_1984.webp",
+      "title": {
+        "gurmukhi": "ਘੱਲੂਘਾਰਾ ਜੂਨ ੧੯੮੪ (ਸਾਕਾ ਨੀਲਾ ਤਾਰਾ)",
+        "roman": "Ghallughara June 1984 (Operation Blue Star)",
+        "hindi": "घल्लूघारा जून 1984"
+      }
     },
     {
       "id": "SHAHIDI_SANT_JARNAIL_AMRIK",
@@ -1078,7 +1233,12 @@
       "limg": "events/sant_jarnail_singh_bhindranwale.webp",
       "imgs": [
         "events/sant_jarnail_singh_bhindranwale.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਸੰਤ ਜਰਨੈਲ ਸਿੰਘ ਤੇ ਭਾਈ ਅਮਰੀਕ ਸਿੰਘ",
+        "roman": "Shaheedi Sant Jarnail Singh & Bhai Amrik Singh",
+        "hindi": "शहीदी संत जरनैल सिंह व भाई अमरीक सिंह"
+      }
     },
     {
       "id": "BHAGAT_KABIR_BIRTH",
@@ -1112,7 +1272,12 @@
       "imgs": [
         "events/bhagat_kabir_birth.webp"
       ],
-      "limg": "events/bhagat_kabir_birth.webp"
+      "limg": "events/bhagat_kabir_birth.webp",
+      "title": {
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਦਿਹਾੜਾ ਭਗਤ ਕਬੀਰ ਜੀ",
+        "roman": "Prakash Diwas Bhagat Kabir Ji",
+        "hindi": "जन्म दिवस भगत कबीर जी"
+      }
     },
     {
       "id": "JORMELA_RITHA_SAHIB",
@@ -1139,7 +1304,12 @@
       "limg": "events/event_032_jeth_29.webp",
       "imgs": [
         "events/event_032_jeth_29.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਜੋੜ ਮੇਲਾ ਗੁਰਦੁਆਰਾ ਮੀਠਾ ਰੀਠਾ ਸਾਹਿਬ",
+        "roman": "Jor Mela Meetha Reetha Sahib",
+        "hindi": "जोड़ मेला रीठा साहिब"
+      }
     },
     {
       "id": "FOUNDATION_DAY_AKAL_TAKHT",
@@ -1173,7 +1343,12 @@
         "events/foundation_day_akal_takht.webp",
         "events/event_ghallughara_sri_akal_takht_sahib_1984.webp"
       ],
-      "limg": "events/foundation_day_akal_takht.webp"
+      "limg": "events/foundation_day_akal_takht.webp",
+      "title": {
+        "gurmukhi": "ਸ੍ਰੀ ਅਕਾਲ ਤਖ਼ਤ ਸਾਹਿਬ ਸਿਰਜਣਾ ਦਿਵਸ",
+        "roman": "Foundation Day Sri Akal Takht Sahib",
+        "hindi": "श्री अकाल तख्त साहिब स्थापना दिवस"
+      }
     },
     {
       "id": "SHAHIDI_BANDA_SINGH_BAHADUR",
@@ -1205,7 +1380,12 @@
       "limg": "events/baba_banda_singh_bahadur_martyrdom.webp",
       "imgs": [
         "events/baba_banda_singh_bahadur_martyrdom.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਦਿਹਾੜਾ ਬਾਬਾ ਬੰਦਾ ਸਿੰਘ ਬਹਾਦਰ ਜੀ",
+        "roman": "Shaheedi Diwas Baba Banda Singh Bahadur Ji",
+        "hindi": "शहीदी दिवस बाबा बंदा सिंह बहादुर जी"
+      }
     },
     {
       "id": "DEATH_MAHARAJA_RANJIT_SINGH",
@@ -1237,7 +1417,12 @@
       "limg": "events/event_death_anniv_maharaja_ranjit_singh_ji.webp",
       "imgs": [
         "events/event_death_anniv_maharaja_ranjit_singh_ji.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਬਰਸੀ ਸ਼ੇਰ-ਏ-ਪੰਜਾਬ ਮਹਾਰਾਜਾ ਰਣਜੀਤ ਸਿੰਘ",
+        "roman": "Barsi Sher-e-Punjab Maharaja Ranjit Singh",
+        "hindi": "बरसी शेर-ए-पंजाब महाराजा रणजीत सिंह"
+      }
     },
     {
       "id": "GURU_HARGOBIND_MIRI_PIRI",
@@ -1268,7 +1453,12 @@
       "imgs": [
         "events/miri_piri_paatshaahi_6.webp"
       ],
-      "limg": "events/miri_piri_paatshaahi_6.webp"
+      "limg": "events/miri_piri_paatshaahi_6.webp",
+      "title": {
+        "gurmukhi": "ਮੀਰੀ-ਪੀਰੀ ਦਿਵਸ (ਗੁਰੂ ਹਰਿਗੋਬਿੰਦ ਸਾਹਿਬ ਜੀ)",
+        "roman": "Miri Piri Divas (Guru Hargobind Sahib Ji)",
+        "hindi": "मीरी-पीरी दिवस (गुरु हरगोबिंद साहिब जी)"
+      }
     },
     {
       "id": "SHAHIDI_BHAI_MANI_SINGH",
@@ -1300,7 +1490,12 @@
       "limg": "events/bhai_mani_singh_martyrdom.webp",
       "imgs": [
         "events/bhai_mani_singh_martyrdom.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਦਿਹਾੜਾ ਭਾਈ ਮਣੀ ਸਿੰਘ ਜੀ",
+        "roman": "Shaheedi Diwas Bhai Mani Singh Ji",
+        "hindi": "शहीदी दिवस भाई मणि सिंह जी"
+      }
     },
     {
       "id": "SHAHIDI_BHAI_TARU_SINGH",
@@ -1332,7 +1527,12 @@
       "limg": "events/bhai_taru_singh_martyrdom.webp",
       "imgs": [
         "events/bhai_taru_singh_martyrdom.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਦਿਹਾੜਾ ਭਾਈ ਤਾਰੂ ਸਿੰਘ ਜੀ",
+        "roman": "Shaheedi Diwas Bhai Taru Singh Ji",
+        "hindi": "शहीदी दिवस भाई तारू सिंह जी"
+      }
     },
     {
       "id": "BIRTH_BHAI_TARU_SINGH",
@@ -1360,7 +1560,12 @@
       "imgs": [
         "events/event_birth_bhai_taru_singh_ji.webp"
       ],
-      "limg": "events/event_birth_bhai_taru_singh_ji.webp"
+      "limg": "events/event_birth_bhai_taru_singh_ji.webp",
+      "title": {
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਦਿਹਾੜਾ ਭਾਈ ਤਾਰੂ ਸਿੰਘ ਜੀ",
+        "roman": "Prakash Diwas Bhai Taru Singh Ji",
+        "hindi": "जन्म दिवस भाई तारू सिंह जी"
+      }
     },
     {
       "id": "GURU_HAR_KRISHAN_BIRTH",
@@ -1395,7 +1600,12 @@
         "events/guru_har_krishan_birth.webp",
         "events/guru_har_krishan_merged.webp"
       ],
-      "limg": "events/guru_har_krishan_birth.webp"
+      "limg": "events/guru_har_krishan_birth.webp",
+      "title": {
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਗੁਰਪੁਰਬ ਗੁਰੂ ਹਰਿ ਕ੍ਰਿਸ਼ਨ ਜੀ",
+        "roman": "Prakash Purab Guru Har Krishan Ji",
+        "hindi": "प्रकाश पुरब गुरु हरि कृष्ण जी"
+      }
     },
     {
       "id": "SHAHIDI_UDHAM_SINGH",
@@ -1422,7 +1632,12 @@
       "limg": "events/event_shaheedi_s_udham_singh.webp",
       "imgs": [
         "events/event_shaheedi_s_udham_singh.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਦਿਹਾੜਾ ਸ਼ਹੀਦ ਊਧਮ ਸਿੰਘ ਜੀ",
+        "roman": "Shaheedi Diwas Shaheed Udham Singh Ji",
+        "hindi": "शहीदी दिवस शहीद ऊधम सिंह जी"
+      }
     },
     {
       "id": "HIST_MORCHA_GURU_KA_BAGH",
@@ -1449,7 +1664,12 @@
       "limg": "events/event_morcha_guru_ka_bagh_sri_amritsar.webp",
       "imgs": [
         "events/event_morcha_guru_ka_bagh_sri_amritsar.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਮੋਰਚਾ ਗੁਰੂ ਕਾ ਬਾਗ਼",
+        "roman": "Morcha Guru Ka Bagh",
+        "hindi": "मोर्चा गुरु का बाग़"
+      }
     },
     {
       "id": "JORMELA_BABA_BAKALA",
@@ -1476,7 +1696,12 @@
       "limg": "events/jormela_baba_bakala.webp",
       "imgs": [
         "events/jormela_baba_bakala.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਜੋੜ ਮੇਲਾ ਬਾਬਾ ਬਕਾਲਾ ਸਾਹਿਬ (ਰੱਖੜ ਪੁੰਨਿਆ)",
+        "roman": "Jor Mela Baba Bakala Sahib",
+        "hindi": "जोड़ मेला बाबा बकाला साहिब"
+      }
     },
     {
       "id": "INDIAS_INDEPENDENCE_DAY",
@@ -1502,7 +1727,12 @@
       "imgs": [
         "events/event_indias_independence_day.webp"
       ],
-      "limg": "events/event_indias_independence_day.webp"
+      "limg": "events/event_indias_independence_day.webp",
+      "title": {
+        "gurmukhi": "ਭਾਰਤ ਦਾ ਸੁਤੰਤਰਤਾ ਦਿਵਸ",
+        "roman": "Independence Day of India",
+        "hindi": "स्वतंत्रता दिवस"
+      }
     },
     {
       "id": "HIST_PARTITION_PRAYER_DAY",
@@ -1523,7 +1753,12 @@
       "limg": "events/partition_prayer_day.webp",
       "imgs": [
         "events/partition_prayer_day.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਦੇਸ਼ ਵੰਡ ਦੇ ਸ਼ਹੀਦਾਂ ਦੀ ਯਾਦ ਵਿਚ ਅਰਦਾਸ ਦਿਵਸ",
+        "roman": "Partition Remembrance Day",
+        "hindi": "विभाजन स्मरण दिवस"
+      }
     },
     {
       "id": "SHAHIDI_SANT_LONGOWAL",
@@ -1550,7 +1785,12 @@
       "limg": "events/sant_harchand_singh_longowal.webp",
       "imgs": [
         "events/sant_harchand_singh_longowal.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਦਿਹਾੜਾ ਸੰਤ ਹਰਚੰਦ ਸਿੰਘ ਲੌਂਗੋਵਾਲ",
+        "roman": "Shaheedi Sant Harchand Singh Longowal",
+        "hindi": "शहीदी दिवस संत हरचंद सिंह लोंगोवाल"
+      }
     },
     {
       "id": "GURU_GRANTH_SAHIB_COMPLETION",
@@ -1584,9 +1824,9 @@
         "events/sampooranta_granth_sahib.webp"
       ],
       "title": {
-        "gurmukhi": "🙏 ਸੰਪੂਰਨਤਾ ਦਿਵਸ ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
-        "roman": "🙏 Sampooranta Divas of Sri Guru Granth Sahib Ji",
-        "hindi": "🙏 संपूर्णता दिवस श्री गुरु ग्रंथ साहिब जी"
+        "gurmukhi": "ਸੰਪੂਰਨਤਾ ਦਿਵਸ ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+        "roman": "Sampooranta Divas of Sri Guru Granth Sahib Ji",
+        "hindi": "संपूर्णता दिवस श्री गुरु ग्रंथ साहिब जी"
       }
     },
     {
@@ -1623,9 +1863,9 @@
       ],
       "limg": "events/guru_granth_sahib_birth.webp",
       "title": {
-        "gurmukhi": "🙏 ਪ੍ਰਕਾਸ਼ ਪੁਰਬ ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
-        "roman": "🙏 Prakash Purab (Birth Anniversary) of Sri Guru Granth Sahib Ji",
-        "hindi": "🙏 प्रकाश पुरब श्री गुरु ग्रंथ साहिब जी"
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਪੁਰਬ ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+        "roman": "Prakash Purab (Birth Anniversary) of Sri Guru Granth Sahib Ji",
+        "hindi": "प्रकाश पुरब श्री गुरु ग्रंथ साहिब जी"
       }
     },
     {
@@ -1660,16 +1900,21 @@
       "imgs": [
         "events/guru_arjan_dev_throne.webp"
       ],
-      "limg": "events/guru_arjan_dev_throne.webp"
+      "limg": "events/guru_arjan_dev_throne.webp",
+      "title": {
+        "gurmukhi": "ਗੁਰਗੱਦੀ ਦਿਵਸ ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+        "roman": "Gurgaddi Diwas Guru Arjan Dev Ji",
+        "hindi": "गुरगद्दी दिवस गुरु अर्जन देव जी"
+      }
     },
     {
       "id": "GURU_RAM_DAS_JOTI_JOT",
       "type": 5,
       "cat": 5,
       "title": {
-        "gurmukhi": "🙏 ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਰਾਮ ਦਾਸ ਜੀ",
-        "roman": "🙏 Jyoti-Jyot (Passing Away) of Guru Ram Das Ji",
-        "hindi": "🙏 जोती-जोति गुरु राम दास जी"
+        "gurmukhi": "ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਰਾਮ ਦਾਸ ਜੀ",
+        "roman": "Jyoti-Jyot (Passing Away) of Guru Ram Das Ji",
+        "hindi": "जोती-जोति गुरु राम दास जी"
       },
       "dates": {
         "mool": {
@@ -1704,9 +1949,9 @@
       "type": 5,
       "cat": 5,
       "title": {
-        "gurmukhi": "🙏 ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਅਮਰ ਦਾਸ ਜੀ",
-        "roman": "🙏 Jyoti-Jyot (Passing Away) of Guru Amar Das Ji",
-        "hindi": "🙏 जोती-जोति गुरु अमर दास जी"
+        "gurmukhi": "ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਅਮਰ ਦਾਸ ਜੀ",
+        "roman": "Jyoti-Jyot (Passing Away) of Guru Amar Das Ji",
+        "hindi": "जोती-जोति गुरु अमर दास जी"
       },
       "dates": {
         "mool": {
@@ -1761,7 +2006,12 @@
       "limg": "events/event_057_assu_1.webp",
       "imgs": [
         "events/event_057_assu_1.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਜੋੜ ਮੇਲਾ ਗੁਰਦੁਆਰਾ ਕੰਧ ਸਾਹਿਬ (ਬਟਾਲਾ)",
+        "roman": "Jor Mela Gurdwara Kandh Sahib (Batala)",
+        "hindi": "जोड़ मेला कंध साहिब (बटाला)"
+      }
     },
     {
       "id": "GURU_NANAK_WEDDING_BATALA",
@@ -1785,7 +2035,12 @@
       },
       "ctx": "Commemorates the wedding of Guru Nanak Dev Ji to Mata Sulakhni Ji at Batala. The Guru's marriage established important Sikh traditions. Gurdwara Kandh Sahib in Batala marks the site where the wedding ceremony took place.",
       "wiki": "https://www.sikhiwiki.org/index.php/Guru_Nanak",
-      "pid": "GURU_NANAK_DEV"
+      "pid": "GURU_NANAK_DEV",
+      "title": {
+        "gurmukhi": "ਵਿਆਹ ਪੁਰਬ ਸ੍ਰੀ ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ (ਬਟਾਲਾ)",
+        "roman": "Wedding Anniversary Sri Guru Nanak Dev Ji (Batala)",
+        "hindi": "विवाह पुरब श्री गुरु नानक देव जी (बटाला)"
+      }
     },
     {
       "id": "GURU_RAM_DAS_THRONE",
@@ -1820,7 +2075,12 @@
         "events/guru_ram_das_throne.webp",
         "events/guru_ram_das_merged.webp"
       ],
-      "limg": "events/guru_ram_das_throne.webp"
+      "limg": "events/guru_ram_das_throne.webp",
+      "title": {
+        "gurmukhi": "ਗੁਰਗੱਦੀ ਦਿਵਸ ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+        "roman": "Gurgaddi Diwas Guru Ram Das Ji",
+        "hindi": "गुरगद्दी दिवस गुरु रामदास जी"
+      }
     },
     {
       "id": "JORMELA_BABA_BUDHA_RAMDAS",
@@ -1847,7 +2107,12 @@
       "limg": "persons/others/baba_budha_ji.webp",
       "imgs": [
         "persons/others/baba_budha_ji.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਜੋੜ ਮੇਲਾ ਬਾਬਾ ਬੁੱਢਾ ਜੀ (ਰਾਮਦਾਸ)",
+        "roman": "Jor Mela Baba Budha Ji (Ramdas)",
+        "hindi": "जोड़ मेला बाबा बुड्ढा जी (रामदास)"
+      }
     },
     {
       "id": "GURU_ANGAD_DEV_THRONE",
@@ -1882,7 +2147,12 @@
         "events/guru_angad_dev_throne.webp",
         "events/guru_angad_dev_merged.webp"
       ],
-      "limg": "events/guru_angad_dev_throne.webp"
+      "limg": "events/guru_angad_dev_throne.webp",
+      "title": {
+        "gurmukhi": "ਗੁਰਗੱਦੀ ਦਿਵਸ ਗੁਰੂ ਅੰਗਦ ਦੇਵ ਜੀ",
+        "roman": "Gurgaddi Diwas Guru Angad Dev Ji",
+        "hindi": "गुरगद्दी दिवस गुरु अंगद देव जी"
+      }
     },
     {
       "id": "HIST_SINGH_SABHA_FOUNDATION",
@@ -1903,7 +2173,12 @@
       "limg": "events/singh_sabha_movement.webp",
       "imgs": [
         "events/singh_sabha_movement.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸਿੰਘ ਸਭਾ ਲਹਿਰ ਸਥਾਪਨਾ ਦਿਵਸ",
+        "roman": "Singh Sabha Movement Foundation Day",
+        "hindi": "सिंह सभा स्थापना दिवस"
+      }
     },
     {
       "id": "GURU_NANAK_DEATH",
@@ -1931,7 +2206,12 @@
       },
       "ctx": "Joti Jot (merging with the Divine Light) of Guru Nanak Dev Ji (1469-1539), the founder of Sikhism and the first Guru. Before his passing at Kartarpur, he appointed Bhai Lehna (Guru Angad Dev Ji) as his successor, establishing the tradition of Guruship. His teachings of One God, equality, and truthful living continue to guide millions.",
       "wiki": "https://www.sikhiwiki.org/index.php/Guru_Nanak",
-      "pid": "GURU_NANAK_DEV"
+      "pid": "GURU_NANAK_DEV",
+      "title": {
+        "gurmukhi": "ਜੋਤੀ ਜੋਤਿ ਸ੍ਰੀ ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+        "roman": "Jyoti Jot Sri Guru Nanak Dev Ji",
+        "hindi": "जोती-जोति श्री गुरु नानक देव जी"
+      }
     },
     {
       "id": "JORMELA_BABA_BUDHA_THATHA",
@@ -1958,7 +2238,12 @@
       "limg": "events/mela_baba_budha_thatha.webp",
       "imgs": [
         "events/mela_baba_budha_thatha.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਜੋੜ ਮੇਲਾ ਬਾਬਾ ਬੁੱਢਾ ਜੀ (ਠੱਠਾ)",
+        "roman": "Jor Mela Baba Budha Ji (Thatha)",
+        "hindi": "जोड़ मेला बाबा बुड्ढा जी (ठट्ठा)"
+      }
     },
     {
       "id": "SHAHIDI_SUKHA_JINDA",
@@ -1985,7 +2270,12 @@
       "limg": "events/event_060_assu_23.webp",
       "imgs": [
         "events/event_060_assu_23.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਭਾਈ ਸੁੱਖਾ ਤੇ ਭਾਈ ਜਿੰਦਾ",
+        "roman": "Shaheedi Bhai Harjinder Singh Jinda & Bhai Sukhdev Singh Sukha",
+        "hindi": "शहीदी भाई सुक्खा व भाई जिंदा"
+      }
     },
     {
       "id": "HIST_DARBAR_KHALSA_DUSSEHRA",
@@ -2012,7 +2302,12 @@
       "limg": "events/miri_piri_paatshaahi_6.webp",
       "imgs": [
         "events/miri_piri_paatshaahi_6.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਦੁਸਹਿਰਾ (ਦਰਬਾਰ ਖ਼ਾਲਸਾ ਸ਼ਸਤਰ ਪੂਜਨ)",
+        "roman": "Dussehra (Darbar Khalsa Shastar Marag)",
+        "hindi": "दशहरा (दरबार खालसा)"
+      }
     },
     {
       "id": "GURU_HAR_KRISHAN_THRONE",
@@ -2047,16 +2342,21 @@
         "events/guru_har_krishan_throne.webp",
         "events/guru_har_krishan_merged.webp"
       ],
-      "limg": "events/guru_har_krishan_throne.webp"
+      "limg": "events/guru_har_krishan_throne.webp",
+      "title": {
+        "gurmukhi": "ਗੁਰਗੱਦੀ ਦਿਵਸ ਗੁਰੂ ਹਰਿ ਕ੍ਰਿਸ਼ਨ ਜੀ",
+        "roman": "Gurgaddi Diwas Guru Har Krishan Ji",
+        "hindi": "गुरगद्दी दिवस गुरु हरि कृष्ण जी"
+      }
     },
     {
       "id": "GURU_HAR_RAI_JOTI_JOT",
       "type": 5,
       "cat": 5,
       "title": {
-        "gurmukhi": "🙏 ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਹਰਿ ਰਾਇ ਜੀ",
-        "roman": "🙏 Jyoti-Jyot (Passing Away) of Guru Har Rai Ji",
-        "hindi": "🙏 जोती-जोति गुरु हरि राय जी"
+        "gurmukhi": "ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਹਰਿ ਰਾਇ ਜੀ",
+        "roman": "Jyoti-Jyot (Passing Away) of Guru Har Rai Ji",
+        "hindi": "जोती-जोति गुरु हरि राय जी"
       },
       "dates": {
         "mool": {
@@ -2119,7 +2419,12 @@
         "events/guru_ram_das_birth.webp",
         "events/guru_ram_das_merged.webp"
       ],
-      "limg": "events/guru_ram_das_birth.webp"
+      "limg": "events/guru_ram_das_birth.webp",
+      "title": {
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਗੁਰਪੁਰਬ ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+        "roman": "Prakash Purab Guru Ram Das Ji",
+        "hindi": "प्रकाश पुरब गुरु रामदास जी"
+      }
     },
     {
       "id": "GURU_GRANTH_SAHIB_THRONE",
@@ -2155,9 +2460,9 @@
       ],
       "limg": "events/guru_granth_sahib_throne.webp",
       "title": {
-        "gurmukhi": "☀️ ਗੁਰਗੱਦੀ ਦਿਵਸ ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
-        "roman": "☀️ Gurgaddi Diwas (Enthronement) of Sri Guru Granth Sahib Ji",
-        "hindi": "☀️ गुरगद्दी दिवस श्री गुरु ग्रंथ साहिब जी"
+        "gurmukhi": "ਗੁਰਗੱਦੀ ਦਿਵਸ ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+        "roman": "Gurgaddi Diwas (Enthronement) of Sri Guru Granth Sahib Ji",
+        "hindi": "गुरगद्दी दिवस श्री गुरु ग्रंथ साहिब जी"
       }
     },
     {
@@ -2165,9 +2470,9 @@
       "type": 5,
       "cat": 5,
       "title": {
-        "gurmukhi": "🙏 ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ",
-        "roman": "🙏 Jyoti-Jyot (Passing Away) of Guru Gobind Singh Ji",
-        "hindi": "🙏 जोती-जोति गुरु गोबिंद सिंह जी"
+        "gurmukhi": "ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ",
+        "roman": "Jyoti-Jyot (Passing Away) of Guru Gobind Singh Ji",
+        "hindi": "जोती-जोति गुरु गोबिंद सिंह जी"
       },
       "dates": {
         "mool": {
@@ -2226,7 +2531,12 @@
       "limg": "events/saka_punja_sahib.webp",
       "imgs": [
         "events/saka_punja_sahib.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸਾਕਾ ਪੰਜਾ ਸਾਹਿਬ",
+        "roman": "Saka Panja Sahib",
+        "hindi": "साका पंजा साहिब"
+      }
     },
     {
       "id": "SHAHIDI_BHAI_BEANT_SINGH",
@@ -2253,7 +2563,12 @@
       "limg": "events/ghallughara_october_november.webp",
       "imgs": [
         "events/ghallughara_october_november.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਦਿਹਾੜਾ ਭਾਈ ਬੇਅੰਤ ਸਿੰਘ",
+        "roman": "Shaheedi Bhai Beant Singh",
+        "hindi": "शहीदी दिवस भाई बेअंत सिंह"
+      }
     },
     {
       "id": "GOVT_PUNJABI_SUBA_DIVAS",
@@ -2280,7 +2595,12 @@
       "limg": "events/punjabi_suba_movement.webp",
       "imgs": [
         "events/punjabi_suba_movement.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਪੰਜਾਬੀ ਸੂਬਾ ਦਿਵਸ",
+        "roman": "Punjabi Suba Divas",
+        "hindi": "पंजाबी सूबा दिवस"
+      }
     },
     {
       "id": "MATA_SAHIBKAUR_BIRTH",
@@ -2309,7 +2629,12 @@
       "ctx": "Prakash Purab (Birth Anniversary) of Mata Sahib Kaur Ji, the spiritual mother of the Khalsa.",
       "img": "https://www.sikhiwiki.org/images/c/c6/Mata_Sahib_Kaur_given_the_gift_of_Shastars_of_Guru_Hargobind.jpg",
       "wiki": "https://www.sikhiwiki.org/index.php/Mata_Sahib_Kaur",
-      "pri": 75
+      "pri": 75,
+      "title": {
+        "gurmukhi": "ਜਨਮ ਦਿਹਾੜਾ ਮਾਤਾ ਸਾਹਿਬ ਕੌਰ ਜੀ (ਖ਼ਾਲਸੇ ਦੀ ਮਾਤਾ)",
+        "roman": "Prakash Diwas Mata Sahib Kaur Ji",
+        "hindi": "जन्म दिवस माता साहिब कौर जी"
+      }
     },
     {
       "id": "BHAGAT_NAMDEV_BIRTH",
@@ -2343,7 +2668,12 @@
       "imgs": [
         "events/bhagat_namdev_birth.webp"
       ],
-      "limg": "events/bhagat_namdev_birth.webp"
+      "limg": "events/bhagat_namdev_birth.webp",
+      "title": {
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਦਿਹਾੜਾ ਭਗਤ ਨਾਮਦੇਵ ਜੀ",
+        "roman": "Prakash Diwas Bhagat Namdev Ji",
+        "hindi": "जन्म दिवस भगत नामदेव जी"
+      }
     },
     {
       "id": "HIST_BANDI_CHHOR_DIVAS",
@@ -2374,7 +2704,12 @@
       "limg": "events/event_107_phagan_21.webp",
       "imgs": [
         "events/event_107_phagan_21.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਬੰਦੀ ਛੋੜ ਦਿਵਸ (ਦੀਵਾਲੀ)",
+        "roman": "Bandi Chhor Divas (Diwali)",
+        "hindi": "बंदी छोड़ दिवस (दीवाली)"
+      }
     },
     {
       "id": "BIRTH_SANT_KARTAR_BHINDRANWALE",
@@ -2401,7 +2736,12 @@
       "limg": "events/sant_jarnail_singh_bhindranwale.webp",
       "imgs": [
         "events/sant_jarnail_singh_bhindranwale.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਜਨਮ ਦਿਹਾੜਾ ਸੰਤ ਕਰਤਾਰ ਸਿੰਘ ਜੀ ਖ਼ਾਲਸਾ ਭਿੰਡਰਾਂਵਾਲੇ",
+        "roman": "Birth of Sant Kartar Singh Bhindranwale",
+        "hindi": "जन्म दिवस संत करतार सिंह भिंडरावाले"
+      }
     },
     {
       "id": "BABA_BUDHA_BIRTH",
@@ -2431,7 +2771,12 @@
       "limg": "persons/others/baba_budha_ji.webp",
       "imgs": [
         "persons/others/baba_budha_ji.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਦਿਹਾੜਾ ਬਾਬਾ ਬੁੱਢਾ ਜੀ",
+        "roman": "Prakash Diwas Baba Budha Ji",
+        "hindi": "जन्म दिवस बाबा बुड्ढा जी"
+      }
     },
     {
       "id": "DEATH_JASSA_SINGH_AHLUWALIA",
@@ -2458,7 +2803,12 @@
       "limg": "events/jassa_singh_ahluwalia_birth.webp",
       "imgs": [
         "events/jassa_singh_ahluwalia_birth.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਅਕਾਲ ਚਲਾਣਾ ਸਰਦਾਰ ਜੱਸਾ ਸਿੰਘ ਆਹਲੂਵਾਲੀਆ",
+        "roman": "Death Anniversary Sardar Jassa Singh Ahluwalia",
+        "hindi": "बरसी सरदार जस्सा सिंह आहलूवालिया"
+      }
     },
     {
       "id": "BABA_DEEP_SINGH_MARTYRDOM",
@@ -2492,7 +2842,12 @@
       "imgs": [
         "events/baba_deep_singh_martyrdom.webp"
       ],
-      "limg": "events/baba_deep_singh_martyrdom.webp"
+      "limg": "events/baba_deep_singh_martyrdom.webp",
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਦਿਹਾੜਾ ਬਾਬਾ ਦੀਪ ਸਿੰਘ ਜੀ",
+        "roman": "Shaheedi Diwas Baba Deep Singh Ji",
+        "hindi": "शहीदी दिवस बाबा दीप सिंह जी"
+      }
     },
     {
       "id": "HIST_SGPC_FOUNDATION",
@@ -2519,7 +2874,12 @@
       "limg": "events/sgpc_foundation.webp",
       "imgs": [
         "events/sgpc_foundation.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸ਼੍ਰੋਮਣੀ ਗੁਰਦੁਆਰਾ ਪ੍ਰਬੰਧਕ ਕਮੇਟੀ (SGPC) ਸਥਾਪਨਾ ਦਿਵਸ",
+        "roman": "SGPC Foundation Day",
+        "hindi": "एस.जी.पी.सी. स्थापना दिवस"
+      }
     },
     {
       "id": "SHAHIDI_KARTAR_SINGH_SARABHA",
@@ -2540,7 +2900,12 @@
       "limg": "events/shaheed_kartar_singh_sarabha.webp",
       "imgs": [
         "events/shaheed_kartar_singh_sarabha.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਦਿਹਾੜਾ ਸ਼ਹੀਦ ਕਰਤਾਰ ਸਿੰਘ ਸਰਾਭਾ",
+        "roman": "Shaheedi Diwas Shaheed Kartar Singh Sarabha",
+        "hindi": "शहीदी दिवस शहीद करतार सिंह सराभा"
+      }
     },
     {
       "id": "DEATH_BHAI_MARDANA",
@@ -2568,7 +2933,12 @@
       "limg": "events/event_death_anniv_bhai_mardana_ji.webp",
       "imgs": [
         "events/event_death_anniv_bhai_mardana_ji.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਅਕਾਲ ਚਲਾਣਾ ਭਾਈ ਮਰਦਾਨਾ ਜੀ",
+        "roman": "Passing of Bhai Mardana Ji",
+        "hindi": "बरसी भाई मरदाना जी"
+      }
     },
     {
       "id": "SAHIBZADA_ZORAWAR_SINGH_BIRTH",
@@ -2602,7 +2972,12 @@
       "imgs": [
         "events/sahibzada_zorawar_singh_birth.webp"
       ],
-      "limg": "events/sahibzada_zorawar_singh_birth.webp"
+      "limg": "events/sahibzada_zorawar_singh_birth.webp",
+      "title": {
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਦਿਹਾੜਾ ਸਾਹਿਬਜ਼ਾਦਾ ਜ਼ੋਰਾਵਰ ਸਿੰਘ ਜੀ",
+        "roman": "Prakash Diwas Sahibzada Zorawar Singh Ji",
+        "hindi": "जन्म दिवस साहिबजादा जोरावर सिंह जी"
+      }
     },
     {
       "id": "SHAHIDI_BABA_GURBAKSH_SINGH",
@@ -2629,7 +3004,12 @@
       "limg": "events/baba_gurbaksh_singh.webp",
       "imgs": [
         "events/baba_gurbaksh_singh.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਦਿਹਾੜਾ ਨਿਹੰਗ ਬਾਬਾ ਗੁਰਬਖ਼ਸ਼ ਸਿੰਘ ਜੀ",
+        "roman": "Shaheedi Nihang Baba Gurbaksh Singh Ji",
+        "hindi": "शहीदी दिवस बाबा गुरबख्श सिंह जी"
+      }
     },
     {
       "id": "GURU_GOBIND_SINGH_THRONE",
@@ -2664,7 +3044,12 @@
         "events/guru_gobind_singh_merged.webp",
         "events/guru_gobind_singh_throne.webp"
       ],
-      "limg": "events/guru_gobind_singh_merged.webp"
+      "limg": "events/guru_gobind_singh_merged.webp",
+      "title": {
+        "gurmukhi": "ਗੁਰਗੱਦੀ ਦਿਵਸ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ",
+        "roman": "Gurgaddi Diwas Guru Gobind Singh Ji",
+        "hindi": "गुरगद्दी दिवस गुरु गोबिंद सिंह जी"
+      }
     },
     {
       "id": "SHAHIDI_MATI_SATI_DAYAL_DAS",
@@ -2695,7 +3080,12 @@
       "limg": "events/bhai_mati_das_sati_das_dyala_martyrdom.webp",
       "imgs": [
         "events/bhai_mati_das_sati_das_dyala_martyrdom.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਭਾਈ ਮਤੀ ਦਾਸ, ਭਾਈ ਸਤੀ ਦਾਸ ਤੇ ਭਾਈ ਦਿਆਲਾ ਜੀ",
+        "roman": "Shaheedi Bhai Mati Das, Bhai Sati Das & Bhai Dyala Ji",
+        "hindi": "शहीदी भाई मती दास, भाई सती दास व भाई दयाल दास जी"
+      }
     },
     {
       "id": "GURU_TEGH_BAHADUR_MARTYRDOM",
@@ -2729,7 +3119,12 @@
       "imgs": [
         "events/guru_tegh_bahadur_martyrdom.webp"
       ],
-      "limg": "events/guru_tegh_bahadur_martyrdom.webp"
+      "limg": "events/guru_tegh_bahadur_martyrdom.webp",
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਦਿਹਾੜਾ ਗੁਰੂ ਤੇਗ ਬਹਾਦਰ ਜੀ",
+        "roman": "Shaheedi Diwas Guru Tegh Bahadur Ji",
+        "hindi": "शहीदी दिवस गुरु तेज बहादुर जी"
+      }
     },
     {
       "id": "SAHIBZADA_FATEH_SINGH_BIRTH",
@@ -2763,7 +3158,12 @@
       "imgs": [
         "events/sahibzada_fateh_singh_birth.webp"
       ],
-      "limg": "events/sahibzada_fateh_singh_birth.webp"
+      "limg": "events/sahibzada_fateh_singh_birth.webp",
+      "title": {
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਦਿਹਾੜਾ ਸਾਹਿਬਜ਼ਾਦਾ ਫ਼ਤਿਹ ਸਿੰਘ ਜੀ",
+        "roman": "Prakash Diwas Sahibzada Fateh Singh Ji",
+        "hindi": "जन्म दिवस साहिबजादा फतेह सिंह जी"
+      }
     },
     {
       "id": "HIST_AKALI_DAL_FOUNDATION",
@@ -2790,7 +3190,12 @@
       "limg": "events/akali_dal_foundation.webp",
       "imgs": [
         "events/akali_dal_foundation.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸ਼੍ਰੋਮਣੀ ਅਕਾਲੀ ਦਲ ਸਥਾਪਨਾ ਦਿਵਸ",
+        "roman": "Shiromani Akali Dal Foundation Day",
+        "hindi": "शिरोमणि अकाली दल स्थापना दिवस"
+      }
     },
     {
       "id": "GURU_TEGH_BAHADUR_SIS_SASKAR",
@@ -2808,7 +3213,12 @@
       },
       "ctx": "Sis Ganj Sahib commemorates the site where Guru Tegh Bahadur Ji's severed head was cremated by Bhai Jaita Ji after retrieving it from Delhi. Gurdwara Sis Ganj Sahib in Anandpur Sahib marks this sacred location, representing the Guru's supreme sacrifice for religious freedom.",
       "wiki": "https://www.sikhiwiki.org/index.php/Martyrdom_of_Guru_Tegh_Bahadur",
-      "pid": "GURU_TEGH_BAHADUR"
+      "pid": "GURU_TEGH_BAHADUR",
+      "title": {
+        "gurmukhi": "ਸੀਸ ਸਸਕਾਰ ਸ੍ਰੀ ਗੁਰੂ ਤੇਗ਼ ਬਹਾਦਰ ਸਾਹਿਬ (ਅਨੰਦਪੁਰ ਸਾਹਿਬ)",
+        "roman": "Sees Saskar Sri Guru Tegh Bahadur Ji (Anandpur Sahib)",
+        "hindi": "सीस संस्कार श्री गुरु तेग बहादुर जी (आनंदपुर साहिब)"
+      }
     },
     {
       "id": "HIST_FORT_ANANDGARH_LEAVE",
@@ -2831,7 +3241,12 @@
         ]
       },
       "ctx": "Commemorates the evacuation of Anandpur Sahib by Guru Gobind Singh Ji and the Sikhs in December 1705, after a prolonged siege by Mughal and hill forces. Despite promises of safe passage, the Sikhs were attacked upon leaving, leading to the battles of Chamkaur and Muktsar.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Battle_of_Chamkaur"
+      "wiki": "https://www.sikhiwiki.org/index.php/Battle_of_Chamkaur",
+      "title": {
+        "gurmukhi": "ਕਿਲ੍ਹਾ ਅਨੰਦਗੜ੍ਹ ਛੱਡਣਾ (ਸ੍ਰੀ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ)",
+        "roman": "Evacuation of Fort Anandgarh Sahib",
+        "hindi": "किला आनंदगढ़ छोड़ना"
+      }
     },
     {
       "id": "HIST_FAMILY_SEPARATION_SARHSA",
@@ -2854,7 +3269,12 @@
         ]
       },
       "ctx": "Commemorates the separation of Guru Gobind Singh Ji's family at Sirsa during the evacuation of Anandpur Sahib in December 1705. Mata Gujri Ji and the younger Sahibzadas were separated from the Guru and later betrayed to the Mughal governor of Sirhind, leading to their martyrdom.",
-      "wiki": "https://www.sikhiwiki.org/index.php/Battle_of_Chamkaur"
+      "wiki": "https://www.sikhiwiki.org/index.php/Battle_of_Chamkaur",
+      "title": {
+        "gurmukhi": "ਪਰਿਵਾਰ ਵਿਛੋੜਾ (ਸਰਸਾ ਨਦੀ)",
+        "roman": "Parivar Vichhoda (Sirsa River)",
+        "hindi": "परिवार विछोड़ा (सरसा नदी)"
+      }
     },
     {
       "id": "SHAHIDI_BABA_JEEVAN_SINGH",
@@ -2881,7 +3301,12 @@
       "limg": "events/baba_jeevan_singh.webp",
       "imgs": [
         "events/baba_jeevan_singh.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਦਿਹਾੜਾ ਬਾਬਾ ਜੀਵਨ ਸਿੰਘ ਜੀ (ਭਾਈ ਜੈਤਾ ਜੀ)",
+        "roman": "Shaheedi Baba Jeevan Singh Ji (Bhai Jaita Ji)",
+        "hindi": "शहीदी दिवस बाबा जीवन सिंह जी"
+      }
     },
     {
       "id": "ELDER_SAHIBZADAS_MARTYRDOM",
@@ -2913,7 +3338,12 @@
       "imgs": [
         "events/all_shaheeds_at_chamkaur_martyrdom.webp"
       ],
-      "limg": "events/all_shaheeds_at_chamkaur_martyrdom.webp"
+      "limg": "events/all_shaheeds_at_chamkaur_martyrdom.webp",
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਵੱਡੇ ਸਾਹਿਬਜ਼ਾਦੇ (ਬਾਬਾ ਅਜੀਤ ਸਿੰਘ ਤੇ ਬਾਬਾ ਜੁਝਾਰ ਸਿੰਘ)",
+        "roman": "Shaheedi Elder Sahibzadas (Chamkaur Sahib)",
+        "hindi": "शहीदी बड़े साहिबजादे (चमकौर साहिब)"
+      }
     },
     {
       "id": "SHAHIDI_BHAI_SANGAT_SINGH",
@@ -2940,7 +3370,12 @@
       "limg": "events/all_shaheeds_at_chamkaur_martyrdom.webp",
       "imgs": [
         "events/all_shaheeds_at_chamkaur_martyrdom.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਦਿਹਾੜਾ ਭਾਈ ਸੰਗਤ ਸਿੰਘ ਜੀ (ਚਮਕੌਰ ਸਾਹਿਬ)",
+        "roman": "Shaheedi Bhai Sangat Singh Ji",
+        "hindi": "शहीदी दिवस भाई संगत सिंह जी"
+      }
     },
     {
       "id": "YOUNGER_SAHIBZADAS_MARTYRDOM",
@@ -2972,7 +3407,12 @@
       "imgs": [
         "events/mata_gujri_martyrdom.webp"
       ],
-      "limg": "events/mata_gujri_martyrdom.webp"
+      "limg": "events/mata_gujri_martyrdom.webp",
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਛੋਟੇ ਸਾਹਿਬਜ਼ਾਦੇ ਤੇ ਮਾਤਾ ਗੁਜਰੀ ਜੀ (ਫ਼ਤਹਿਗੜ੍ਹ ਸਾਹਿਬ)",
+        "roman": "Shaheedi Younger Sahibzadas & Mata Gujri Ji (Sirhind)",
+        "hindi": "शहीदी छोटे साहिबजादे व माता गुजरी जी"
+      }
     },
     {
       "id": "GURU_GOBIND_SINGH_BIRTH",
@@ -3007,7 +3447,12 @@
         "events/guru_gobind_singh_birth.webp",
         "events/guru_gobind_singh_merged.webp"
       ],
-      "limg": "events/guru_gobind_singh_birth.webp"
+      "limg": "events/guru_gobind_singh_birth.webp",
+      "title": {
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਗੁਰਪੁਰਬ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ",
+        "roman": "Prakash Purab Guru Gobind Singh Ji",
+        "hindi": "प्रकाश पुरब गुरु गोबिंद सिंह जी"
+      }
     },
     {
       "id": "SHAHIDI_KEHAR_SATWANT_SINGH",
@@ -3034,7 +3479,12 @@
       "limg": "events/ghallughara_october_november.webp",
       "imgs": [
         "events/ghallughara_october_november.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸ਼ਹੀਦੀ ਭਾਈ ਕੇਹਰ ਸਿੰਘ ਤੇ ਭਾਈ ਸਤਵੰਤ ਸਿੰਘ",
+        "roman": "Shaheedi Bhai Satwant Singh & Bhai Kehar Singh",
+        "hindi": "शहीदी दिवस भाई सतवंत सिंह व भाई केहर सिंह"
+      }
     },
     {
       "id": "HIST_HARIMANDIR_FOUNDATION_STONE",
@@ -3065,7 +3515,12 @@
       "limg": "events/harmandir_sahib_foundation.webp",
       "imgs": [
         "events/harmandir_sahib_foundation.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸ੍ਰੀ ਹਰਿਮੰਦਰ ਸਾਹਿਬ ਨੀਂਹ ਪੱਥਰ ਦਿਵਸ (ਸਾਈਂ ਮੀਆਂ ਮੀਰ ਜੀ)",
+        "roman": "Foundation Stone of Sri Harmandir Sahib",
+        "hindi": "श्री हरिमंदिर साहिब नींव पत्थर दिवस"
+      }
     },
     {
       "id": "JORMELA_MUKTSAR_MAGHI",
@@ -3096,7 +3551,12 @@
       "imgs": [
         "events/mela_maghi_muktsar_foundation_day_amritsar.webp"
       ],
-      "limg": "events/mela_maghi_muktsar_foundation_day_amritsar.webp"
+      "limg": "events/mela_maghi_muktsar_foundation_day_amritsar.webp",
+      "title": {
+        "gurmukhi": "ਮਾਘੀ ਮੇਲਾ ਮੁਕਤਸਰ ਸਾਹਿਬ (ਚਾਲੀ ਮੁਕਤੇ)",
+        "roman": "Maghi Mela Muktsar Sahib (40 Mukte)",
+        "hindi": "माघी मेला मुक्तसर साहिब"
+      }
     },
     {
       "id": "HIST_CHABIYAN_DA_MORCHA",
@@ -3127,7 +3587,12 @@
       "limg": "events/chabbian_da_morcha.webp",
       "imgs": [
         "events/chabbian_da_morcha.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਚਾਬੀਆਂ ਦਾ ਮੋਰਚਾ",
+        "roman": "Chabiyan Da Morcha",
+        "hindi": "चाबियों का मोर्चा"
+      }
     },
     {
       "id": "BABA_DEEP_SINGH_BIRTH",
@@ -3161,7 +3626,12 @@
       "imgs": [
         "events/baba_deep_singh_birth.webp"
       ],
-      "limg": "events/baba_deep_singh_birth.webp"
+      "limg": "events/baba_deep_singh_birth.webp",
+      "title": {
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਦਿਹਾੜਾ ਬਾਬਾ ਦੀਪ ਸਿੰਘ ਜੀ",
+        "roman": "Prakash Diwas Baba Deep Singh Ji",
+        "hindi": "जन्म दिवस बाबा दीप सिंह जी"
+      }
     },
     {
       "id": "VADDHA_GHALLUGHARA",
@@ -3194,7 +3664,12 @@
       "imgs": [
         "events/vaddha_ghallughara.webp"
       ],
-      "limg": "events/vaddha_ghallughara.webp"
+      "limg": "events/vaddha_ghallughara.webp",
+      "title": {
+        "gurmukhi": "ਵੱਡਾ ਘੱਲੂਘਾਰਾ (੧੭੬੨ ਈ:)",
+        "roman": "Vaddha Ghallughara (Great Holocaust 1762)",
+        "hindi": "वड्डा घल्लूघारा (1762 ई.)"
+      }
     },
     {
       "id": "GURU_GOBIND_SINGH_WEDDING",
@@ -3222,7 +3697,12 @@
       },
       "ctx": "Commemorates the wedding of Guru Gobind Singh Ji. The Guru was married to Mata Jito Ji (also known as Mata Sundri), and Mata Sahib Kaur Ji who became the spiritual mother of the Khalsa. These marriages took place at Anandpur Sahib.",
       "wiki": "https://www.sikhiwiki.org/index.php/Guru_Gobind_Singh",
-      "pid": "GURU_GOBIND_SINGH"
+      "pid": "GURU_GOBIND_SINGH",
+      "title": {
+        "gurmukhi": "ਵਿਆਹ ਪੁਰਬ ਸ੍ਰੀ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ",
+        "roman": "Wedding Anniversary Sri Guru Gobind Singh Ji",
+        "hindi": "विवाह पुरब श्री गुरु गोबिंद सिंह जी"
+      }
     },
     {
       "id": "HIST_BASANT_PANCHAMI",
@@ -3249,7 +3729,12 @@
       "limg": "events/basant_panchami_chheharta.webp",
       "imgs": [
         "events/basant_panchami_chheharta.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਬਸੰਤ ਪੰਚਮੀ",
+        "roman": "Basant Panchami",
+        "hindi": "बसंत पंचमी"
+      }
     },
     {
       "id": "SAHIBZADA_AJIT_SINGH_BIRTH",
@@ -3283,7 +3768,12 @@
       "imgs": [
         "events/sahibzada_ajit_singh_birth.webp"
       ],
-      "limg": "events/sahibzada_ajit_singh_birth.webp"
+      "limg": "events/sahibzada_ajit_singh_birth.webp",
+      "title": {
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਦਿਹਾੜਾ ਸਾਹਿਬਜ਼ਾਦਾ ਅਜੀਤ ਸਿੰਘ ਜੀ",
+        "roman": "Prakash Diwas Sahibzada Ajit Singh Ji",
+        "hindi": "जन्म दिवस साहिबजादा अजीत सिंह जी"
+      }
     },
     {
       "id": "GURU_HAR_RAI_BIRTH",
@@ -3318,7 +3808,12 @@
         "events/guru_har_rai_birth.webp",
         "events/guru_har_rai_merged.webp"
       ],
-      "limg": "events/guru_har_rai_birth.webp"
+      "limg": "events/guru_har_rai_birth.webp",
+      "title": {
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਗੁਰਪੁਰਬ ਗੁਰੂ ਹਰਿ ਰਾਇ ਜੀ",
+        "roman": "Prakash Purab Guru Har Rai Ji",
+        "hindi": "प्रकाश पुरब गुरु हरि राय जी"
+      }
     },
     {
       "id": "BHAGAT_RAVIDAS_BIRTH",
@@ -3353,7 +3848,12 @@
         "events/bhagat_ravidas_birth.webp",
         "events/bhagat_ravidas_birth_650.webp"
       ],
-      "limg": "events/bhagat_ravidas_birth.webp"
+      "limg": "events/bhagat_ravidas_birth.webp",
+      "title": {
+        "gurmukhi": "ਪ੍ਰਕਾਸ਼ ਦਿਹਾੜਾ ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+        "roman": "Prakash Diwas Bhagat Ravidas Ji",
+        "hindi": "जन्म दिवस भगत रविदास जी"
+      }
     },
     {
       "id": "SAKA_NANKANA_SAHIB",
@@ -3386,7 +3886,12 @@
       "limg": "events/saka_nankana_sahib.webp",
       "imgs": [
         "events/saka_nankana_sahib.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸਾਕਾ ਨਨਕਾਣਾ ਸਾਹਿਬ (ਸ਼ਹੀਦੀ ਜਥਾ ਭਾਈ ਲਛਮਣ ਸਿੰਘ)",
+        "roman": "Saka Nankana Sahib",
+        "hindi": "साका ननकाना साहिब"
+      }
     },
     {
       "id": "JAITO_DA_MORCHA",
@@ -3419,7 +3924,12 @@
       "limg": "events/jaito_da_morcha.webp",
       "imgs": [
         "events/jaito_da_morcha.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਜੈਤੋ ਦਾ ਮੋਰਚਾ",
+        "roman": "Jaito Da Morcha",
+        "hindi": "जैतो का मोर्चा"
+      }
     },
     {
       "id": "HIST_DARBAR_SAHIB_AMRITSAR_FOUNDATION",
@@ -3436,7 +3946,12 @@
       "limg": "events/harmandir_sahib_completion.webp",
       "imgs": [
         "events/harmandir_sahib_completion.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸ੍ਰੀ ਅੰਮ੍ਰਿਤਸਰ ਸ਼ਹਿਰ ਸਥਾਪਨਾ ਦਿਵਸ",
+        "roman": "Foundation of Sri Amritsar City",
+        "hindi": "श्री अमृतसर स्थापना दिवस"
+      }
     },
     {
       "id": "SANGRAND_CHET",
@@ -3466,7 +3981,12 @@
       "imgs": [
         "seasons/sangrand_chet.webp"
       ],
-      "limg": "seasons/sangrand_chet.webp"
+      "limg": "seasons/sangrand_chet.webp",
+      "title": {
+        "gurmukhi": "ਸੰਗਰਾਂਦ ਮਾਹ ਚੇਤ",
+        "roman": "Sangrand Month Chet",
+        "hindi": "संगरांद माह चेत"
+      }
     },
     {
       "id": "SANGRAND_VAISAKH",
@@ -3496,7 +4016,12 @@
       "imgs": [
         "seasons/sangrand_vaisakh.webp"
       ],
-      "limg": "seasons/sangrand_vaisakh.webp"
+      "limg": "seasons/sangrand_vaisakh.webp",
+      "title": {
+        "gurmukhi": "ਸੰਗਰਾਂਦ ਮਾਹ ਵੈਸਾਖ",
+        "roman": "Sangrand Month Vaisakh",
+        "hindi": "संगरांद माह वैसाख"
+      }
     },
     {
       "id": "SANGRAND_JETH",
@@ -3526,7 +4051,12 @@
       "imgs": [
         "seasons/sangrand_jeth.webp"
       ],
-      "limg": "seasons/sangrand_jeth.webp"
+      "limg": "seasons/sangrand_jeth.webp",
+      "title": {
+        "gurmukhi": "ਸੰਗਰਾਂਦ ਮਾਹ ਜੇਠ",
+        "roman": "Sangrand Month Jeth",
+        "hindi": "संगरांद माह जेठ"
+      }
     },
     {
       "id": "SANGRAND_HARH",
@@ -3556,7 +4086,12 @@
       "imgs": [
         "seasons/sangrand_harh.webp"
       ],
-      "limg": "seasons/sangrand_harh.webp"
+      "limg": "seasons/sangrand_harh.webp",
+      "title": {
+        "gurmukhi": "ਸੰਗਰਾਂਦ ਮਾਹ ਹਾੜ",
+        "roman": "Sangrand Month Harh",
+        "hindi": "संगरांद माह हाड़"
+      }
     },
     {
       "id": "SANGRAND_SAWAN",
@@ -3586,7 +4121,12 @@
       "limg": "seasons/sangrand_saun.webp",
       "imgs": [
         "seasons/sangrand_saun.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸੰਗਰਾਂਦ ਮਾਹ ਸਾਵਣ",
+        "roman": "Sangrand Month Sawan",
+        "hindi": "संगरांद माह सावन"
+      }
     },
     {
       "id": "SANGRAND_BHADON",
@@ -3616,7 +4156,12 @@
       "imgs": [
         "seasons/sangrand_bhadon.webp"
       ],
-      "limg": "seasons/sangrand_bhadon.webp"
+      "limg": "seasons/sangrand_bhadon.webp",
+      "title": {
+        "gurmukhi": "ਸੰਗਰਾਂਦ ਮਾਹ ਭਾਦੋਂ",
+        "roman": "Sangrand Month Bhadon",
+        "hindi": "संगरांद माह भादों"
+      }
     },
     {
       "id": "SANGRAND_ASSU",
@@ -3646,7 +4191,12 @@
       "limg": "seasons/sangrand_assu.webp",
       "imgs": [
         "seasons/sangrand_assu.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸੰਗਰਾਂਦ ਮਾਹ ਅੱਸੂ",
+        "roman": "Sangrand Month Assu",
+        "hindi": "संगरांद माह अस्सू"
+      }
     },
     {
       "id": "SANGRAND_KATTAK",
@@ -3676,7 +4226,12 @@
       "limg": "seasons/sangrand_katak.webp",
       "imgs": [
         "seasons/sangrand_katak.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸੰਗਰਾਂਦ ਮਾਹ ਕੱਤਕ",
+        "roman": "Sangrand Month Katak",
+        "hindi": "संगरांद माह कातिक"
+      }
     },
     {
       "id": "SANGRAND_MAGHAR",
@@ -3706,7 +4261,12 @@
       "limg": "seasons/sangrand_maghar.webp",
       "imgs": [
         "seasons/sangrand_maghar.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸੰਗਰਾਂਦ ਮਾਹ ਮੱਘਰ",
+        "roman": "Sangrand Month Maghar",
+        "hindi": "संगरांद माह मग्घर"
+      }
     },
     {
       "id": "SANGRAND_POH",
@@ -3736,7 +4296,12 @@
       "limg": "seasons/sangrand_poh.webp",
       "imgs": [
         "seasons/sangrand_poh.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸੰਗਰਾਂਦ ਮਾਹ ਪੋਹ",
+        "roman": "Sangrand Month Poh",
+        "hindi": "संगरांद माह पोह"
+      }
     },
     {
       "id": "SANGRAND_MAGH",
@@ -3766,7 +4331,12 @@
       "imgs": [
         "seasons/sangrand_magh.webp"
       ],
-      "limg": "seasons/sangrand_magh.webp"
+      "limg": "seasons/sangrand_magh.webp",
+      "title": {
+        "gurmukhi": "ਸੰਗਰਾਂਦ ਮਾਹ ਮਾਘ",
+        "roman": "Sangrand Month Magh",
+        "hindi": "संगरांद माह माघ"
+      }
     },
     {
       "id": "SANGRAND_PHAGAN",
@@ -3796,7 +4366,12 @@
       "limg": "seasons/sangrand_phagun.webp",
       "imgs": [
         "seasons/sangrand_phagun.webp"
-      ]
+      ],
+      "title": {
+        "gurmukhi": "ਸੰਗਰਾਂਦ ਮਾਹ ਫੱਗਣ",
+        "roman": "Sangrand Month Phagan",
+        "hindi": "संगरांद माह फाल्गुन"
+      }
     }
   ],
   "lastUpdated": "2026-04-12T12:53:24.460044"
