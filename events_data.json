@@ -1831,8 +1831,8 @@
     },
     {
       "id": "GURU_GRANTH_SAHIB_BIRTH",
-      "type": 7,
-      "cat": 7,
+      "type": 1,
+      "cat": 1,
       "dates": {
         "mool": {
           "d": 17,

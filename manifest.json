@@ -1,11 +1,11 @@
 {
-    "version":  11,
-    "description":  "Updated authentic historical portraits for Sahibzada Zorawar Singh Ji and Sahibzada Fateh Singh Ji.",
+    "version":  12,
+    "description":  "Updated Guru Granth Sahib Prakash Purab event type and birthday cake emoji.",
     "files":  [
                   {
                       "name":  "events_data.json",
                       "url":  "https://robinsinghdevgan.github.io/NanakshahiCalendar-Data/events_data.json",
-                      "version":  5
+                      "version":  6
                   },
                   {
                       "name":  "persons_data.json",
