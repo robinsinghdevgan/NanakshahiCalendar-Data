@@ -191,8 +191,7 @@
       "pri": 85,
       "pid": "GURU_HAR_RAI",
       "imgs": [
-        "events/guru_har_rai_throne.webp",
-        "events/guru_har_rai_merged.webp"
+        "events/guru_har_rai_throne.webp"
       ],
       "limg": "events/guru_har_rai_throne.webp",
       "title": {
@@ -231,8 +230,7 @@
       "pri": 85,
       "pid": "GURU_AMAR_DAS",
       "imgs": [
-        "events/guru_amar_das_throne.webp",
-        "events/guru_amar_das_merged.webp"
+        "events/guru_amar_das_throne.webp"
       ],
       "limg": "events/guru_amar_das_throne.webp",
       "title": {
@@ -675,7 +673,6 @@
       "pid": "GURU_NANAK_DEV",
       "imgs": [
         "events/guru_nanak_dev_merged.webp",
-        "events/guru_nanak_dev_merged.webp",
         "events/guru_nanak_dev_birth.webp"
       ],
       "limg": "events/guru_nanak_dev_merged.webp",
@@ -715,8 +712,7 @@
       "pri": 90,
       "pid": "GURU_ANGAD_DEV",
       "imgs": [
-        "events/guru_angad_dev_birth.webp",
-        "events/guru_angad_dev_merged.webp"
+        "events/guru_angad_dev_birth.webp"
       ],
       "limg": "events/guru_angad_dev_birth.webp",
       "title": {
@@ -751,7 +747,6 @@
       "pri": 70,
       "pid": "BHAGAT_DHANNA",
       "imgs": [
-        "events/bhagat_dhanna_birth.webp",
         "events/bhagat_dhanna_birth.webp"
       ],
       "limg": "events/bhagat_dhanna_birth.webp",
@@ -814,8 +809,7 @@
       "pri": 90,
       "pid": "GURU_AMAR_DAS",
       "imgs": [
-        "events/guru_amar_das_birth.webp",
-        "events/guru_amar_das_merged.webp"
+        "events/guru_amar_das_birth.webp"
       ],
       "limg": "events/guru_amar_das_birth.webp",
       "title": {
@@ -950,8 +944,7 @@
       "pri": 90,
       "pid": "GURU_HARGOBIND",
       "imgs": [
-        "events/guru_hargobind_birth.webp",
-        "events/guru_hargobind_merged.webp"
+        "events/guru_hargobind_birth.webp"
       ],
       "limg": "events/guru_hargobind_birth.webp",
       "title": {
@@ -1019,8 +1012,7 @@
       "ctx": "Prakash Purab (Birth Anniversary) of Sardar Jassa Singh Ahluwalia (1718-1783), a prominent Sikh leader who led the Ahluwalia Misl. He was raised by Mata Sundri Ji and became known as 'Guru Ka Lal' (Beloved of the Guru). He played a key role in Sikh military and political affairs.",
       "wiki": "https://www.sikhiwiki.org/index.php/Jassa_Singh_Ahluwalia",
       "imgs": [
-        "events/jassa_singh_ahluwalia_birth.webp",
-        "events/jassa_singh_ahluwalia_merged.webp"
+        "events/jassa_singh_ahluwalia_birth.webp"
       ],
       "limg": "events/jassa_singh_ahluwalia_birth.webp",
       "title": {
@@ -1059,8 +1051,7 @@
       "pri": 85,
       "pid": "GURU_HARGOBIND",
       "imgs": [
-        "events/guru_hargobind_throne.webp",
-        "events/guru_hargobind_merged.webp"
+        "events/guru_hargobind_throne.webp"
       ],
       "limg": "events/guru_hargobind_throne.webp",
       "title": {
@@ -1597,8 +1588,7 @@
       "pri": 90,
       "pid": "GURU_HAR_KRISHAN",
       "imgs": [
-        "events/guru_har_krishan_birth.webp",
-        "events/guru_har_krishan_merged.webp"
+        "events/guru_har_krishan_birth.webp"
       ],
       "limg": "events/guru_har_krishan_birth.webp",
       "title": {
@@ -2072,8 +2062,7 @@
       "pri": 85,
       "pid": "GURU_RAM_DAS",
       "imgs": [
-        "events/guru_ram_das_throne.webp",
-        "events/guru_ram_das_merged.webp"
+        "events/guru_ram_das_throne.webp"
       ],
       "limg": "events/guru_ram_das_throne.webp",
       "title": {
@@ -2144,8 +2133,7 @@
       "pri": 85,
       "pid": "GURU_ANGAD_DEV",
       "imgs": [
-        "events/guru_angad_dev_throne.webp",
-        "events/guru_angad_dev_merged.webp"
+        "events/guru_angad_dev_throne.webp"
       ],
       "limg": "events/guru_angad_dev_throne.webp",
       "title": {
@@ -2339,8 +2327,7 @@
       "pri": 85,
       "pid": "GURU_HAR_KRISHAN",
       "imgs": [
-        "events/guru_har_krishan_throne.webp",
-        "events/guru_har_krishan_merged.webp"
+        "events/guru_har_krishan_throne.webp"
       ],
       "limg": "events/guru_har_krishan_throne.webp",
       "title": {
@@ -2416,8 +2403,7 @@
       "pri": 90,
       "pid": "GURU_RAM_DAS",
       "imgs": [
-        "events/guru_ram_das_birth.webp",
-        "events/guru_ram_das_merged.webp"
+        "events/guru_ram_das_birth.webp"
       ],
       "limg": "events/guru_ram_das_birth.webp",
       "title": {
@@ -3037,8 +3023,7 @@
       "pri": 85,
       "pid": "GURU_GOBIND_SINGH",
       "imgs": [
-        "events/guru_gobind_singh_merged.webp",
-        "events/guru_gobind_singh_throne.webp"
+        "events/guru_gobind_singh_merged.webp"
       ],
       "limg": "events/guru_gobind_singh_merged.webp",
       "title": {
@@ -3440,8 +3425,7 @@
       "pri": 90,
       "pid": "GURU_GOBIND_SINGH",
       "imgs": [
-        "events/guru_gobind_singh_birth.webp",
-        "events/guru_gobind_singh_merged.webp"
+        "events/guru_gobind_singh_birth.webp"
       ],
       "limg": "events/guru_gobind_singh_birth.webp",
       "title": {
@@ -3801,8 +3785,7 @@
       "pri": 90,
       "pid": "GURU_HAR_RAI",
       "imgs": [
-        "events/guru_har_rai_birth.webp",
-        "events/guru_har_rai_merged.webp"
+        "events/guru_har_rai_birth.webp"
       ],
       "limg": "events/guru_har_rai_birth.webp",
       "title": {
@@ -3841,8 +3824,7 @@
       "pri": 70,
       "pid": "BHAGAT_RAVIDAS",
       "imgs": [
-        "events/bhagat_ravidas_birth.webp",
-        "events/bhagat_ravidas_birth_650.webp"
+        "events/bhagat_ravidas_birth.webp"
       ],
       "limg": "events/bhagat_ravidas_birth.webp",
       "title": {
