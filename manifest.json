@@ -1,0 +1,16 @@
+{
+    "version": 17,
+    "description": "Updated SikhiWiki reference links and standardized post-1960 commemorations.",
+    "files": [
+        {
+            "name": "events_data.json",
+            "url": "https://robinsinghdevgan.github.io/NanakshahiCalendar-Data/events_data.json",
+            "version": 11
+        },
+        {
+            "name": "persons_data.json",
+            "url": "https://robinsinghdevgan.github.io/NanakshahiCalendar-Data/persons_data.json",
+            "version": 9
+        }
+    ]
+}

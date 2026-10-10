@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "description": "Normalized relational TSVs for events, solar dates, lunar dates, and historical persons.",
+  "files": [
+    {
+      "name": "events.tsv",
+      "url": "https://raw.githubusercontent.com/robinsinghdevgan/NanakshahiCalendar-Data/main/events.tsv",
+      "version": 2
+    },
+    {
+      "name": "dates_fixed.tsv",
+      "url": "https://raw.githubusercontent.com/robinsinghdevgan/NanakshahiCalendar-Data/main/dates_fixed.tsv",
+      "version": 2
+    },
+    {
+      "name": "dates_lunar.tsv",
+      "url": "https://raw.githubusercontent.com/robinsinghdevgan/NanakshahiCalendar-Data/main/dates_lunar.tsv",
+      "version": 2
+    },
+    {
+      "name": "persons.tsv",
+      "url": "https://raw.githubusercontent.com/robinsinghdevgan/NanakshahiCalendar-Data/main/persons.tsv",
+      "version": 2
+    }
+  ]
+}
